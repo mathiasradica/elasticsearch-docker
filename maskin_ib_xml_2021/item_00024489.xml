@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>243183</sku>
+    <name>PEJLSTÅNG SIDOBORSTE 300</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1686885</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <updated_at>2021-01-13T15:17:20.169000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>813</supplier>
+      <images>
+        <image>
+          <filename>2240080.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>203.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>223.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>247360-551</sku>
+    <name>BORSTE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1284541</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>247360-551</ean_number>
+      <updated_at>2021-01-13T15:17:22.794000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>813</supplier>
+      <images>
+        <image>
+          <filename>2240081.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>96.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>247439</sku>
+    <name>STÄLLSKRUV</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1687365</c4_sysid>
+      <replaces>&quot;243045&quot;,&quot;243046&quot;,&quot;243047&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>247439</ean_number>
+      <updated_at>2021-01-13T15:17:25.012000</updated_at>
+      <categories>1743447</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>813</supplier>
+      <images>
+        <image>
+          <filename>2240082.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>843.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>929.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

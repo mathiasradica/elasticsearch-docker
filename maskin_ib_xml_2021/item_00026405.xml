@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>44199</sku>
+    <name>KYLARE BM 2200-2254</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1557654</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235173513</ean_number>
+      <updated_at>2021-01-20T12:33:11.926000</updated_at>
+      <categories>1809593</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>327</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>3900.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

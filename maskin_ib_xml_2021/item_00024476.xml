@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>1130061</sku>
+    <name>FILTERPROPP F 8145-00-140 R1/4</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1273751</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322234507029</ean_number>
+      <updated_at>2021-01-13T14:03:13.426000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>813</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>ACP0508800</sku>
+    <name>IGNITION SWITCH</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1822911</c4_sysid>
+      <replaces>&quot;ACV022816B&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236163599</ean_number>
+      <updated_at>2021-01-13T14:03:14.426000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;ACP0508800&quot;</competitor_references>
+      <supplier>451</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>830.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

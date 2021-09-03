@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>L4201</sku>
+    <name>SNÖKEDJA 10,00-20</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1157629</c4_sysid>
+      <replaces>&quot;100020TLB8&quot;,&quot;4201,822&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235898768</ean_number>
+      <updated_at>2021-01-13T09:48:10.719000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>822</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>6700.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>156083</sku>
+    <name>LEDBULT CR 925-1225</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1794073</c4_sysid>
+      <replaces>&quot;442903&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T09:48:10.953000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>828</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>704.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

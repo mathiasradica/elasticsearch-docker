@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>ACW618858B</sku>
+    <name>VATTENSLANG</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237215</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:18.578000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>145.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>V220PH1510180</sku>
+    <name>RÖR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237216</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:19</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>520.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>V220PH0195101</sku>
+    <name>RÖR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237217</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:19.172000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>550.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.59005</sku>
+    <name>STRAP-BONNET</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>312633</model>
+          <year>1989-1992</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>312634</model>
+          <year>1985-1992</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1410778</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:19.359000</updated_at>
+      <categories>1879387,1907716</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Fiat</manufacturer>
+          <reference>5106362</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.59005&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1410772.jpg</filename>
+        </image>
+        <image>
+          <filename>1410775.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>36.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>45.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>003C214354100</sku>
+    <name>ARBETSLJUS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237218</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:19.484000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>8020.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>ACP0581750</sku>
+    <name>SLANG</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237219</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:19.845000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>810.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.164701</sku>
+    <name>Grille Bracket 4LED</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237220</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:20.033000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.164701&quot;</competitor_references>
+      <supplier>144</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S120PH1540460</sku>
+    <name>RÖR .</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237221</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:20.220000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>265.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>ACX2915430</sku>
+    <name>INSTRUKTIONSBOK</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237222</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:20.689000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>187.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.55190</sku>
+    <name>BANJO FITTING 8MM NW2</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Banjo Fitting.  Nominal I/D: 2mm.  Hose I/D: 4.50mm.  Hole Ø8mm</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1784211</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:20.892000</updated_at>
+      <categories>1784215</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.55190&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>2200411.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>39.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>45.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.51799</sku>
+    <name>SWAGE ON RING END 12MM (35MM2)</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1380525</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:21.142000</updated_at>
+      <categories>1730948,1792887,1905198,1905337</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.51799&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1380523.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>6.050000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>8.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>7060715M4</sku>
+    <name>INSTRUKTIONSBOK</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237223</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:21.252000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>298.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>ACT003284C</sku>
+    <name>INSTRUKTIONSBOK</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237224</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:21.424000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>298.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>ACT006839D</sku>
+    <name>INSTRUKTIONSBOK</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237225</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:21.814000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>298.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>298.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>ACX2475620</sku>
+    <name>ANVISNINGAR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237226</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:21.986000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>55.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>55.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>SF95000608</sku>
+    <name>LÅSBRICKA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237227</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:22.158000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;SF95000608&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>6.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>6.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>575300D1</sku>
+    <name>BRAKETT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>900344</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:22.361000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;575300D1&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>308.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>308.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.112487</sku>
+    <name>SLANGKOPPL RAK GS12-12MM PLAST</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1879878</c4_sysid>
+      <replaces>&quot;152743&quot;,&quot;1562013&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235694186</ean_number>
+      <updated_at>2021-01-07T18:08:22.595000</updated_at>
+      <categories>1809608</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.112487&quot;</competitor_references>
+      <supplier>144</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>28.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>33.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.11665</sku>
+    <name>INSEXSKRUV MC6S M12X80 12.9</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>self colour</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1628276</c4_sysid>
+      <replaces>&quot;0912021280&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:22.802000</updated_at>
+      <categories>1809426</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.11665&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1628275.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>8.300000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>11.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>ACW024230C</sku>
+    <name>STÖD .</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237228</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:23.158000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>4960.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>4960.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>3010681X1</sku>
+    <name>AVSTÅNDSBRICKA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1077981</c4_sysid>
+      <qty_increments>3.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:23.580000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;3010681X1&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>30.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>30.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>ACW198800A</sku>
+    <name>BRÄNSLERÖR .</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237229</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:08:23.705000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>429.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

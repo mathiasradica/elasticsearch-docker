@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>0002151710</sku>
+    <name>SPÄNNHYLSA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315787</model>
+          <year></year>
+          <serials>094</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1456318</c4_sysid>
+      <replaces>&quot;AY00003197&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230190522</ean_number>
+      <updated_at>2021-01-18T14:28:10.626000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>468.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>565.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>4359014M2</sku>
+    <name>INDUKTIV UTTAG</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1081393</c4_sysid>
+      <replaces>&quot;4372052M1&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-18T14:28:10.923000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;4359014M2&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>660.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>660.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>K1604490</sku>
+    <name>SPINDLE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1880255</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236185492</ean_number>
+      <updated_at>2021-01-18T14:28:11.142000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>152</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>3588.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>3479.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.109353</sku>
+    <name>HYDRAULFILTER HF6781</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Dome OD: 128.93mm. Overall Height: 170.41mm. Seam OD: 128.93mm. Thread Size: 1 1/2-16 UN-2B</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Fleetguard</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>312961</model>
+          <year>1996-2000</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>312962</model>
+          <year>1996-2000</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>312965</model>
+          <year>2000-2003</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>312966</model>
+          <year>2000-2003</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>312967</model>
+          <year>2000-2003</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1357012</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-18T14:28:11.329000</updated_at>
+      <categories>1880051,1905359</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Donaldson Filters</manufacturer>
+          <reference>P165877</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Fleetguard</manufacturer>
+          <reference>HF6781</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>John Deere</manufacturer>
+          <reference>RE45864</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.109353&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1357010.jpg</filename>
+        </image>
+        <image>
+          <filename>1357011.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>481.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>596.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

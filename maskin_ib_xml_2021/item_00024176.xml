@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>CH 80762</sku>
+    <name>BUSSNING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>690317</c4_sysid>
+      <updated_at>2021-01-11T08:33:46.179000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>600.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>SA 1125-00370</sku>
+    <name>HOSE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>691864</c4_sysid>
+      <ean_number>7322235541022</ean_number>
+      <updated_at>2021-01-11T08:33:46.335000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1582.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11992487</sku>
+    <name>KNUTKORS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>703088</c4_sysid>
+      <replaces>&quot;VOE11991888&quot;,&quot;VOE14215380&quot;</replaces>
+      <updated_at>2021-01-11T08:33:46.460000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1518.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11003631</sku>
+    <name>PLÅT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>698798</c4_sysid>
+      <updated_at>2021-01-11T08:33:46.585000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>342.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>MI 964327</sku>
+    <name>REM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>688033</c4_sysid>
+      <updated_at>2021-01-11T08:33:46.726000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>304.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>MI 13803548</sku>
+    <name>O-RING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>689317</c4_sysid>
+      <replaces>&quot;VOE1306625&quot;</replaces>
+      <updated_at>2021-01-11T08:33:46.866000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>36.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 6200028</sku>
+    <name>PUSH BOTTON</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>690763</c4_sysid>
+      <updated_at>2021-01-11T08:33:47.007000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>391.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>RM 80917826</sku>
+    <name>KIT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>698179</c4_sysid>
+      <ean_number>7322235474436</ean_number>
+      <updated_at>2021-01-11T08:33:47.132000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>95252.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>MI 946857</sku>
+    <name>FILTERINSATS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>688240</c4_sysid>
+      <updated_at>2021-01-11T08:33:47.273000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1479.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>MI 4095206</sku>
+    <name>LAMELL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>687853</c4_sysid>
+      <replaces>&quot;VOE227495&quot;</replaces>
+      <updated_at>2021-01-11T08:33:47.414000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>492.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 7415937</sku>
+    <name>REPAIR KIT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>688703</c4_sysid>
+      <updated_at>2021-01-11T08:33:47.556000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>483.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 3870022</sku>
+    <name>SPACER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>688276</c4_sysid>
+      <updated_at>2021-01-11T08:33:47.681000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>56.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 7415970</sku>
+    <name>O-RING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>687352</c4_sysid>
+      <updated_at>2021-01-11T08:33:47.852000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>39.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>CH 1759</sku>
+    <name>KULLED</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>690939</c4_sysid>
+      <updated_at>2021-01-11T08:33:47.977000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>468.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11006106</sku>
+    <name>FÄSTE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>701544</c4_sysid>
+      <updated_at>2021-01-11T08:33:48.118000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2410.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>RM 80864093</sku>
+    <name>STÅNG</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1206315</c4_sysid>
+      <ean_number>7322236103427</ean_number>
+      <updated_at>2021-01-11T08:33:48.274000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2183.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 7411510</sku>
+    <name>BUSH</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>688125</c4_sysid>
+      <updated_at>2021-01-11T08:33:48.416000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>930.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11004557</sku>
+    <name>KUTS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>697624</c4_sysid>
+      <updated_at>2021-01-11T08:33:48.572000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1998.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>CH 402157</sku>
+    <name>HUV</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>687800</c4_sysid>
+      <updated_at>2021-01-11T08:33:48.729000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>5596.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>SA 1142-03530</sku>
+    <name>PIPC WA RH</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>700417</c4_sysid>
+      <ean_number>7322233949158</ean_number>
+      <updated_at>2021-01-11T08:33:48.869000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1931.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>RM 80874910</sku>
+    <name>SKRIDPLÅTSATS V</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1164305</c4_sysid>
+      <ean_number>7322236010626</ean_number>
+      <updated_at>2021-01-11T08:33:49.010000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>70747.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>CH 79011</sku>
+    <name>RETR. SLIDETUBE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>689830</c4_sysid>
+      <updated_at>2021-01-11T08:33:49.151000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1073.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11004883</sku>
+    <name>NIPPEL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>695649</c4_sysid>
+      <updated_at>2021-01-11T08:33:49.291000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>122.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11007281</sku>
+    <name>LÅS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>701758</c4_sysid>
+      <updated_at>2021-01-11T08:33:49.432000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>695.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 7415560</sku>
+    <name>TINTED GLASS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>690510</c4_sysid>
+      <updated_at>2021-01-11T08:33:49.573000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1999.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 7480078</sku>
+    <name>SCREW</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>689019</c4_sysid>
+      <updated_at>2021-01-11T08:33:49.729000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>112.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 7410128</sku>
+    <name>LOCK WASHER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>689324</c4_sysid>
+      <updated_at>2021-01-11T08:33:49.886000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>20.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>CH 97851</sku>
+    <name>CARTRIDGE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>690059</c4_sysid>
+      <updated_at>2021-01-11T08:33:50.026000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2889.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>CH 95248</sku>
+    <name>FAN BELT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>691551</c4_sysid>
+      <updated_at>2021-01-11T08:33:50.151000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>652.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 4190722</sku>
+    <name>HIGH PRESS HOSE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>689093</c4_sysid>
+      <updated_at>2021-01-11T08:33:50.308000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2226.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11132261</sku>
+    <name>OLJEMÄTSTICKA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>695717</c4_sysid>
+      <updated_at>2021-01-11T08:33:50.464000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1138.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11147623</sku>
+    <name>MANÖVERVENTIL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>700544</c4_sysid>
+      <replaces>&quot;VOE11100270&quot;</replaces>
+      <updated_at>2021-01-11T08:33:50.589000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>76984.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>SA 8230-32450</sku>
+    <name>BALL BEARING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>695692</c4_sysid>
+      <ean_number>7322234600133</ean_number>
+      <updated_at>2021-01-11T08:33:50.714000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>7550.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>PJ 7417433</sku>
+    <name>GLASS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>689594</c4_sysid>
+      <updated_at>2021-01-11T08:33:50.886000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1461.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11164780</sku>
+    <name>KNOB</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>695311</c4_sysid>
+      <ean_number>7322234114357</ean_number>
+      <updated_at>2021-01-11T08:33:51.011000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>263.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>MI 12974362</sku>
+    <name>BROMSBELÄGG</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>690193</c4_sysid>
+      <replaces>&quot;VOE841296&quot;</replaces>
+      <updated_at>2021-01-11T08:33:51.167000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>899.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>MI 13805270</sku>
+    <name>O-RING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>687530</c4_sysid>
+      <updated_at>2021-01-11T08:33:51.323000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>319.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

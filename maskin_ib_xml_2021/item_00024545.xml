@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>S.109599</sku>
+    <name>HYDRAULFILTER HF28804</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Fleetguard</manufacturer>
+      <c4_sysid>1357802</c4_sysid>
+      <replaces>&quot;4807020&quot;,&quot;P172465&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-14T13:33:09.614000</updated_at>
+      <categories>1880051,1905359</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Donaldson Filters</manufacturer>
+          <reference>P172465</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Fleetguard</manufacturer>
+          <reference>HF28804</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Hifi-Jurafil Filters</manufacturer>
+          <reference>SH53053</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.109599&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1357800.jpg</filename>
+        </image>
+        <image>
+          <filename>1357801.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>852.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>1055.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>324-950-000037</sku>
+    <name>SPRING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2240401</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236222340</ean_number>
+      <updated_at>2021-01-14T13:33:09.911000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>007</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>245.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.154379</sku>
+    <name>HYDRAULFILTER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1364604</c4_sysid>
+      <replaces>&quot;S.109599&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-14T13:33:10.099000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.154379&quot;</competitor_references>
+      <supplier>144</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>564.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>651.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

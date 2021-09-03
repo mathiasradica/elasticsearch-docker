@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>S.43900</sku>
+    <name>HITCHKABEL PICK UP (1900MM)</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>1940mm</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>313422</model>
+          <year>2003-2006</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313425</model>
+          <year>2003-2008</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313428</model>
+          <year>2003-2008</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313432</model>
+          <year>2003-2007</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313434</model>
+          <year>2006-2007</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313430</model>
+          <year>2003-2007</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1773407</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-08T19:18:03.090000</updated_at>
+      <categories>1773520,1915234</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>3715975M3</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>3715975M4</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>3715975M3</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>3715975M4</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.43900&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>2141515.jpg</filename>
+        </image>
+        <image>
+          <filename>2141516.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>537.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>537.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>665.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

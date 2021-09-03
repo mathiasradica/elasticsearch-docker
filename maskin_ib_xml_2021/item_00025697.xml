@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>VOE14601283</sku>
+    <name>PIPE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>723792</c4_sysid>
+      <updated_at>2021-01-18T10:42:08.815000</updated_at>
+      <categories>1326251,1326295</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2265.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14559263</sku>
+    <name>RUBBER SHOE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>727173</c4_sysid>
+      <updated_at>2021-01-18T10:42:08.971000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1437.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14880454</sku>
+    <name>SKRAPLIST</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>724023</c4_sysid>
+      <ean_number>7322234827325</ean_number>
+      <updated_at>2021-01-18T10:42:09.127000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>805.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14644807</sku>
+    <name>SERVICE KIT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>729013</c4_sysid>
+      <ean_number>7322234845916</ean_number>
+      <updated_at>2021-01-18T10:42:09.315000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1233.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14637840</sku>
+    <name>STEERING COLUMN</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>727400</c4_sysid>
+      <ean_number>7322234974227</ean_number>
+      <updated_at>2021-01-18T10:42:09.487000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>22692.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE15053378</sku>
+    <name>KABELHÄRVA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>726468</c4_sysid>
+      <ean_number>7322235539722</ean_number>
+      <updated_at>2021-01-18T10:42:09.659000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>18616.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE15038957</sku>
+    <name>LAMPA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>728759</c4_sysid>
+      <replaces>&quot;VOE11113312&quot;</replaces>
+      <ean_number>7322234007024</ean_number>
+      <updated_at>2021-01-18T10:42:09.799000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>734.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14543216</sku>
+    <name>PIN</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>725070</c4_sysid>
+      <replaces>&quot;VOE14510307&quot;</replaces>
+      <updated_at>2021-01-18T10:42:09.971000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2170.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14880825</sku>
+    <name>SLANG</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>727952</c4_sysid>
+      <ean_number>7322234126190</ean_number>
+      <updated_at>2021-01-18T10:42:10.127000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>5939.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14597580</sku>
+    <name>ROD</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1195381</c4_sysid>
+      <ean_number>7322236094923</ean_number>
+      <updated_at>2021-01-18T10:42:10.315000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>13255.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14596611</sku>
+    <name>SEALING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>730436</c4_sysid>
+      <replaces>&quot;SA 8230-00931&quot;</replaces>
+      <updated_at>2021-01-18T10:42:10.471000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>784.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14630450</sku>
+    <name>ACTUATOR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>726104</c4_sysid>
+      <updated_at>2021-01-18T10:42:10.612000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>10297.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14677272</sku>
+    <name>RÖR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1191622</c4_sysid>
+      <ean_number>7322235887915</ean_number>
+      <updated_at>2021-01-18T10:42:10.768000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1559.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14674385</sku>
+    <name>PIPE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>725154</c4_sysid>
+      <replaces>&quot;SA 1074-03140&quot;</replaces>
+      <updated_at>2021-01-18T10:42:10.909000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>5584.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14546976</sku>
+    <name>PASSBRICKA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>724899</c4_sysid>
+      <updated_at>2021-01-18T10:42:11.065000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>137.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14677380</sku>
+    <name>PIPE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>724218</c4_sysid>
+      <replaces>&quot;VOE14546520&quot;</replaces>
+      <updated_at>2021-01-18T10:42:11.252000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2183.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14625898</sku>
+    <name>SPEGELSTAG</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>686987</c4_sysid>
+      <ean_number>7322235438810</ean_number>
+      <updated_at>2021-01-18T10:42:11.424000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>811.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14677042</sku>
+    <name>RÖR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>724492</c4_sysid>
+      <ean_number>7322235412711</ean_number>
+      <updated_at>2021-01-18T10:42:11.596000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1563.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14613247</sku>
+    <name>CLAMP</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1479518</c4_sysid>
+      <ean_number>7322236172232</ean_number>
+      <updated_at>2021-01-18T10:42:11.752000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>586.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14881220</sku>
+    <name>CLAMP</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>729768</c4_sysid>
+      <ean_number>7322235757218</ean_number>
+      <updated_at>2021-01-18T10:42:11.924000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>836.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14658345</sku>
+    <name>GLASS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>724183</c4_sysid>
+      <ean_number>7322235520720</ean_number>
+      <updated_at>2021-01-18T10:42:12.143000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>3097.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14689584</sku>
+    <name>BRÄNSLESLANG</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1171129</c4_sysid>
+      <ean_number>7322236091656</ean_number>
+      <updated_at>2021-01-18T10:42:12.331000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1515.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14603091</sku>
+    <name>RULLAGER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1200980</c4_sysid>
+      <ean_number>7322236129144</ean_number>
+      <updated_at>2021-01-18T10:42:12.471000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>764.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE15002772</sku>
+    <name>TRANSMISSIONSOL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>729141</c4_sysid>
+      <ean_number>7322234375048</ean_number>
+      <updated_at>2021-01-18T10:42:12.612000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1180.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

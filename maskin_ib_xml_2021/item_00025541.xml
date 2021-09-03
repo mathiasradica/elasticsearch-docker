@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>VOE14285501</sku>
+    <name>ISOLERING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>716017</c4_sysid>
+      <updated_at>2021-01-18T10:22:27.466000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>320.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11802247</sku>
+    <name>BUSHING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>707448</c4_sysid>
+      <replaces>&quot;PJ 3870028&quot;</replaces>
+      <updated_at>2021-01-18T10:22:27.591000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>335.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE11991915</sku>
+    <name>LÅSPINNE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>705749</c4_sysid>
+      <updated_at>2021-01-18T10:22:27.747000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>73.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

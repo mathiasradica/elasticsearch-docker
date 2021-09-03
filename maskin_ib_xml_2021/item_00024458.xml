@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>S.76883</sku>
+    <name>BRÄNSLEFILTER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex - Agrifilter</manufacturer>
+      <c4_sysid>1492802</c4_sysid>
+      <replaces>&quot;15221-4317&quot;,&quot;15221-43170&quot;,&quot;24-WK818/80&quot;,&quot;45810&quot;,&quot;P550127&quot;,&quot;S.109048&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T09:18:11.411000</updated_at>
+      <categories>1888375,1905358</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Coopers Filters</manufacturer>
+          <reference>FSM4027</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Crosland Filters</manufacturer>
+          <reference>5004</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Crosland Filters</manufacturer>
+          <reference>CR5004</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Donaldson Filters</manufacturer>
+          <reference>P550127</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Hinomoto</manufacturer>
+          <reference>2401-2511-00</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>John Deere</manufacturer>
+          <reference>ch16885</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>15221-43080</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>1522143080</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>70000-43080</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>70000-43081</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>7000043080</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>7000043081</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>LUBER-FINER</manufacturer>
+          <reference>FP590F</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Mann Filters</manufacturer>
+          <reference>WK812</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>3282454M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>72098616</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Not Specified</manufacturer>
+          <reference>72098616</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Case/IH</manufacturer>
+          <reference>200040A1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Crosland Filters</manufacturer>
+          <reference>CR5004</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>hin</manufacturer>
+          <reference>2401-2511-00</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>John Deere</manufacturer>
+          <reference>CH14467</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>John Deere</manufacturer>
+          <reference>CH16885</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>1522143080</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>1522143081</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>1522143170</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>70000-43080</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>70000-43081</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>7000043080</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>72098616</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>TRA8023395</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.76883&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>2215467.jpg</filename>
+        </image>
+        <image>
+          <filename>1492800.jpg</filename>
+        </image>
+        <image>
+          <filename>1492801.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>66.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>69.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>RM565684</sku>
+    <name>ADAPTER 3/8</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2239949</c4_sysid>
+      <ean_number>7322236221923</ean_number>
+      <updated_at>2021-01-13T09:18:11.786000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>815</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>348.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>24-WK818/80</sku>
+    <name>BRÄNSLEFILTER TF</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2239950</c4_sysid>
+      <replaces>&quot;4807778&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236221930</ean_number>
+      <updated_at>2021-01-13T09:18:11.958000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;24-WK 818/80&quot;</competitor_references>
+      <supplier>071</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>320.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>4807778</sku>
+    <name>BRÄNSLEFILTER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1337039</c4_sysid>
+      <replaces>&quot;44822&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236110661</ean_number>
+      <updated_at>2021-01-13T09:18:12.177000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;WK 818/80&quot;</competitor_references>
+      <supplier>200</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>373.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>431.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

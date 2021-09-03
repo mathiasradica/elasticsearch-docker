@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>TK700</sku>
+    <name>BATTERI START-STOP AGM 70 Ah</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Tudors AGM batterier för Start-Stop-fordon är tillverkade av material och komponenter med högsta prestanda, såsom högporösa glasflosseparatorer, avancerade bly-tennlegeringar och unika koltillsatser till den aktiva massan. Batterierna är idealiska för bilar med Start-Stop-system i eventuell kombination med regenerativ bromskraftåtervinning och andra intelligenta bränslebesparande funktioner. &lt;br&gt;&lt;br&gt;Spänning: 12V &lt;br&gt;Batterikapacitet: 70 Ah &lt;br&gt;Köldstartström EN: 760 A &lt;br&gt;L: 278 mm, B: 175 mm, H: 190 mm &lt;br&gt;Polställning: 0 &lt;br&gt;Poltyp: 1 &lt;br&gt;Klackutf.: B13</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Exide</manufacturer>
+      <c4_sysid>1086387</c4_sysid>
+      <replaces>&quot;57099&quot;,&quot;AGM700&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>3661024055710</ean_number>
+      <updated_at>2021-01-11T16:38:10.638000</updated_at>
+      <categories>1773109,1902812</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>038</supplier>
+      <images>
+        <image>
+          <filename>1086386.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2244.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>246815</sku>
+    <name>FÄSTE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1900487</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236215151</ean_number>
+      <updated_at>2021-01-11T16:38:10.950000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>813</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1840.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>2120.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

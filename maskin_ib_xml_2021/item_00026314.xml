@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>0007983190</sku>
+    <name>BRÄNSLEFÖRFILTER - MOTOR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315963</model>
+          <year></year>
+          <serials>L07</serials>
+        </fits_to>
+        <fits_to>
+          <model>315967</model>
+          <year></year>
+          <serials>L07</serials>
+        </fits_to>
+        <fits_to>
+          <model>315964</model>
+          <year></year>
+          <serials>L17</serials>
+        </fits_to>
+        <fits_to>
+          <model>315968</model>
+          <year></year>
+          <serials>L17</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1492218</c4_sysid>
+      <replaces>&quot;AY00002260&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322231583972</ean_number>
+      <updated_at>2021-01-19T10:28:13.276000</updated_at>
+      <categories>1513781,1513782,1513783,1749735,1749736,1749737,1749738,1749739,1749740,1888375,1905358</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>82.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>90.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

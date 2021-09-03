@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>0006004612</sku>
+    <name>GUMMILIST</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315917</model>
+          <year></year>
+          <serials>835</serials>
+        </fits_to>
+        <fits_to>
+          <model>315926</model>
+          <year></year>
+          <serials>C02</serials>
+        </fits_to>
+        <fits_to>
+          <model>315925</model>
+          <year></year>
+          <serials>832</serials>
+        </fits_to>
+        <fits_to>
+          <model>315928</model>
+          <year></year>
+          <serials>C24</serials>
+        </fits_to>
+        <fits_to>
+          <model>315927</model>
+          <year></year>
+          <serials>C18</serials>
+        </fits_to>
+        <fits_to>
+          <model>315929</model>
+          <year></year>
+          <serials>832</serials>
+        </fits_to>
+        <fits_to>
+          <model>315939</model>
+          <year></year>
+          <serials>831</serials>
+        </fits_to>
+        <fits_to>
+          <model>315937</model>
+          <year></year>
+          <serials>C22</serials>
+        </fits_to>
+        <fits_to>
+          <model>315941</model>
+          <year></year>
+          <serials>838</serials>
+        </fits_to>
+        <fits_to>
+          <model>315947</model>
+          <year></year>
+          <serials>838</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1331147</c4_sysid>
+      <replaces>&quot;0006004611&quot;,&quot;0006004613&quot;,&quot;AY00000835&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230243679</ean_number>
+      <updated_at>2021-01-15T12:03:11.375000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>261.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>269.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000834</sku>
+    <name>LINA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>526997</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-15T12:03:13.172000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.133076&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1100.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1474541,1637372</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000835</sku>
+    <name>GUMMILIST</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1899249</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-15T12:03:13.360000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.117702&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>195.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1331147,1636488</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000837</sku>
+    <name>FÄSTE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1899250</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-15T12:03:13.563000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.132679&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>110.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1470038,1637239</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0007109100</sku>
+    <name>LINA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1474541</c4_sysid>
+      <replaces>&quot;AY00000834&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230350612</ean_number>
+      <updated_at>2021-01-15T12:03:13.750000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1770.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>2135.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>706060,190</sku>
+    <name>BATTERILADDARE SMARTCH. 12V 6A</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Batteriladdare SmartCharge 12V 6A &lt;br&gt;&lt;br&gt;SmartCharge är en intelligent laddare som gör det enkelt och&lt;br&gt;tryggt att ladda batterierna. Laddaren representerar den senaste teknologin inom batteriladdning, vilket ger optimal batterilivslängd. &lt;br&gt;&lt;br&gt;Funktioner: &lt;br&gt;• Endast en knapp; på eller av &lt;br&gt;• Användarvänlig bakgrundsbelyst display. &lt;br&gt;• Anpassar sig automatiskt till storleken (Ah) på batteriet. &lt;br&gt;• Laddningsindikator för batteristatus. &lt;br&gt;• Integrerade kabelspår för enkel förvaring. &lt;br&gt;• Kommer aldrig att överladda ditt batteri. &lt;br&gt;• Temperaturkompenserat laddningsförlopp. &lt;br&gt;&lt;br&gt;Inspänning [VAC, Hz]: 230, 50-60 &lt;br&gt;Strömförbrukning, max [W]: 115 &lt;br&gt;Backström [mA]: &lt; 1 &lt;br&gt;Utspänning [VDC]: 14,4/14,7 &lt;br&gt;Användnings temperatur [ºC]: -40 ~ +40 &lt;br&gt;Kylning: luft &lt;br&gt;Batterityp: Alla bly/syra batterier (även AGM och Gel) &lt;br&gt;Batteristorlek [Ah]: 6,0-120 &lt;br&gt;Tätthetsklass [IP]: 65 &lt;br&gt;Isolationsklass [cl]: II &lt;br&gt;L/B/H [mm]: 210x90x54 &lt;br&gt;Vikt,, brutto [g]: 0,735 &lt;br&gt;Cert: EN60335-1, EN60355-2-29, EN 61204-3 , EN61000-3-3, EN61000-3-2</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>DEFA</manufacturer>
+      <c4_sysid>1582753</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7042287060608</ean_number>
+      <updated_at>2021-01-15T12:03:13.907000</updated_at>
+      <categories>1765011,1902810</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>190</supplier>
+      <images>
+        <image>
+          <filename>1582748.jpg</filename>
+        </image>
+        <image>
+          <filename>1582751.jpg</filename>
+        </image>
+        <image>
+          <filename>1582752.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1000.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

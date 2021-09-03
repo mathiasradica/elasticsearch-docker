@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>S.4963</sku>
+    <name>LÅSMUTTER UNC 3/8&quot;</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>313352</model>
+          <year>1988-1994</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313353</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313355</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313354</model>
+          <year>1988-1994</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313357</model>
+          <year>1988-1994</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313358</model>
+          <year>1992-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313359</model>
+          <year>1988-1991</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313361</model>
+          <year>1988-1991</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313364</model>
+          <year>1988-1991</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313367</model>
+          <year>1988-1991</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>798631</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-11T14:48:30.561000</updated_at>
+      <categories>798638</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>376454X1</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.4963&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1846070.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>1.200000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>2.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

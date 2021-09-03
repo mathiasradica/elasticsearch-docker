@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>S.626</sku>
+    <name>RATTSPINNARE LUTNING 15 GRADER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Wheelspinners - 15°</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1793161</c4_sysid>
+      <replaces>&quot;50111&quot;,&quot;S.628&quot;,&quot;S.637&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-17T17:33:09.544000</updated_at>
+      <categories>1793166,1907726</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>1934061</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.626&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1842189.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>94.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>106.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

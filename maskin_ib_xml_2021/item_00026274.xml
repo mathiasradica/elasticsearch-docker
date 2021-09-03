@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>AY00003207</sku>
+    <name>PACKNING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1899648</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-18T14:58:13.510000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.117664&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>110.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1456285,1636452</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0006832420</sku>
+    <name>FILTERINSATS, HY. TRYCKFILTER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315863</model>
+          <year></year>
+          <serials>586</serials>
+        </fits_to>
+        <fits_to>
+          <model>311999</model>
+          <year></year>
+          <serials>E52</serials>
+        </fits_to>
+        <fits_to>
+          <model>311998</model>
+          <year></year>
+          <serials>781</serials>
+        </fits_to>
+        <fits_to>
+          <model>312001</model>
+          <year></year>
+          <serials>781</serials>
+        </fits_to>
+        <fits_to>
+          <model>312003</model>
+          <year></year>
+          <serials>782</serials>
+        </fits_to>
+        <fits_to>
+          <model>312002</model>
+          <year></year>
+          <serials>783</serials>
+        </fits_to>
+        <fits_to>
+          <model>312003</model>
+          <year></year>
+          <serials>783</serials>
+        </fits_to>
+        <fits_to>
+          <model>312004</model>
+          <year></year>
+          <serials>782</serials>
+        </fits_to>
+        <fits_to>
+          <model>312004</model>
+          <year></year>
+          <serials>783</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1495295</c4_sysid>
+      <replaces>&quot;0005964310&quot;,&quot;AY00003212&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322231321116</ean_number>
+      <updated_at>2021-01-18T14:58:13.760000</updated_at>
+      <categories>2188069,2188070,2188071,2188072,2188073</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>109536</manufacturer>
+          <reference>CLAAS</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <images>
+        <image>
+          <filename>1495293.png</filename>
+        </image>
+        <image>
+          <filename>1495294.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1627.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>2067.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>FC3115A01</sku>
+    <name>KUHN FC 3115 D</name>
+    <status>disabled</status>
+    <attributes store="admin">
+      <status>0</status>
+      <c4_status>2</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2242215</c4_sysid>
+      <updated_at>2021-01-18T14:58:14.151000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>6892</supplier>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

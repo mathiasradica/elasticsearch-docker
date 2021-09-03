@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>0006569562</sku>
+    <name>FILTER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315855</model>
+          <year></year>
+          <serials>584</serials>
+        </fits_to>
+        <fits_to>
+          <model>315856</model>
+          <year></year>
+          <serials>584</serials>
+        </fits_to>
+        <fits_to>
+          <model>315858</model>
+          <year></year>
+          <serials>584</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1493061</c4_sysid>
+      <replaces>&quot;AY00002382&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322234225459</ean_number>
+      <updated_at>2021-01-19T13:48:17.189000</updated_at>
+      <categories>1742473,1879901,1905359</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>288.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>339.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

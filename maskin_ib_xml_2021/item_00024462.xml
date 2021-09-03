@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>0007498280</sku>
+    <name>REM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315835</model>
+          <year></year>
+          <serials>544</serials>
+        </fits_to>
+        <fits_to>
+          <model>315837</model>
+          <year></year>
+          <serials>544</serials>
+        </fits_to>
+        <fits_to>
+          <model>315840</model>
+          <year></year>
+          <serials>544</serials>
+        </fits_to>
+        <fits_to>
+          <model>315842</model>
+          <year></year>
+          <serials>547</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1540675</c4_sysid>
+      <replaces>&quot;AY00000716&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <updated_at>2021-01-13T10:18:11.110000</updated_at>
+      <categories>1875000,1926857</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <images>
+        <image>
+          <filename>1540674.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>3441.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>4151.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000718</sku>
+    <name>KILREM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1899224</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T10:18:11.376000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.117669&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1450.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1470333,1636457</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000716</sku>
+    <name>REM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1899223</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T10:18:11.485000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.117670&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2390.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1540675,1636458</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0003594841</sku>
+    <name>FJÄDER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>316694</model>
+          <year></year>
+          <serials>715</serials>
+        </fits_to>
+        <fits_to>
+          <model>316695</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316696</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316697</model>
+          <year></year>
+          <serials>715</serials>
+        </fits_to>
+        <fits_to>
+          <model>316698</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316699</model>
+          <year></year>
+          <serials>715</serials>
+        </fits_to>
+        <fits_to>
+          <model>316700</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316701</model>
+          <year></year>
+          <serials>715</serials>
+        </fits_to>
+        <fits_to>
+          <model>316702</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316703</model>
+          <year></year>
+          <serials>715</serials>
+        </fits_to>
+        <fits_to>
+          <model>316704</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316723</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>316711</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>316708</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1400678</c4_sysid>
+      <replaces>&quot;0003594840&quot;,&quot;AY00000726&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322234455221</ean_number>
+      <updated_at>2021-01-13T10:18:11.594000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>23.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>28.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0002163110</sku>
+    <name>LAGER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315845</model>
+          <year></year>
+          <serials>466</serials>
+        </fits_to>
+        <fits_to>
+          <model>315846</model>
+          <year></year>
+          <serials>456</serials>
+        </fits_to>
+        <fits_to>
+          <model>315848</model>
+          <year></year>
+          <serials>548</serials>
+        </fits_to>
+        <fits_to>
+          <model>315847</model>
+          <year></year>
+          <serials>468</serials>
+        </fits_to>
+        <fits_to>
+          <model>315863</model>
+          <year></year>
+          <serials>586</serials>
+        </fits_to>
+        <fits_to>
+          <model>315954</model>
+          <year></year>
+          <serials>840</serials>
+        </fits_to>
+        <fits_to>
+          <model>315956</model>
+          <year></year>
+          <serials>840</serials>
+        </fits_to>
+        <fits_to>
+          <model>315955</model>
+          <year></year>
+          <serials>C36</serials>
+        </fits_to>
+        <fits_to>
+          <model>315957</model>
+          <year></year>
+          <serials>C36</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1456763</c4_sysid>
+      <replaces>&quot;AY00000730&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322231356460</ean_number>
+      <updated_at>2021-01-13T10:18:11.719000</updated_at>
+      <categories>1810166</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>882.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>1064.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0006295101</sku>
+    <name>KILREM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315846</model>
+          <year></year>
+          <serials>456</serials>
+        </fits_to>
+        <fits_to>
+          <model>315861</model>
+          <year></year>
+          <serials>581</serials>
+        </fits_to>
+        <fits_to>
+          <model>315863</model>
+          <year></year>
+          <serials>586</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1470333</c4_sysid>
+      <replaces>&quot;AY00000718&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230278312</ean_number>
+      <updated_at>2021-01-13T10:18:11.829000</updated_at>
+      <categories>1875000,1910113</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2773.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>3345.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0007351141</sku>
+    <name>FJÄDERPINNE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1475380</c4_sysid>
+      <replaces>&quot;AY00000694&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230360840</ean_number>
+      <updated_at>2021-01-13T10:18:11.969000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>800.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>965.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000730</sku>
+    <name>LAGER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <c4_sysid>648651</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T10:18:12.063000</updated_at>
+      <categories>1810166</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.133660&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>625.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1456763,1637397</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000726</sku>
+    <name>FJÄDER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>526988</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T10:18:12.188000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.134884&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>15.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1400678,1637432</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000707</sku>
+    <name>HYDROSTATFILTER SAUER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1899221</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T10:18:12.298000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.132703&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>310.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1492750,1637267</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000688</sku>
+    <name>HÄVARM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1899218</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T10:18:12.407000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.117441&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>4990.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1473446,1636245</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0006195491</sku>
+    <name>KEDJEHJUL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315881</model>
+          <year></year>
+          <serials>570</serials>
+        </fits_to>
+        <fits_to>
+          <model>317849</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1469584</c4_sysid>
+      <replaces>&quot;AY00000740&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230268450</ean_number>
+      <updated_at>2021-01-13T10:18:12.594000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2820.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>3402.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000706</sku>
+    <name>ELEVATORKEDJA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>526986</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T10:18:12.735000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.133433&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>3200.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1468356,1637386</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0006013700</sku>
+    <name>ELEVATORKEDJA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315759</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>315857</model>
+          <year></year>
+          <serials>580</serials>
+        </fits_to>
+        <fits_to>
+          <model>315859</model>
+          <year></year>
+          <serials>580</serials>
+        </fits_to>
+        <fits_to>
+          <model>315881</model>
+          <year></year>
+          <serials>570</serials>
+        </fits_to>
+        <fits_to>
+          <model>317849</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1468356</c4_sysid>
+      <replaces>&quot;0006192970&quot;,&quot;AY00000706&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322234850606</ean_number>
+      <updated_at>2021-01-13T10:18:12.907000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>4534.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>5469.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00000694</sku>
+    <name>FJÄDERPINNE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>526985</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-13T10:18:13.079000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.134874&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>490.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1475380,1637431</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0006733470</sku>
+    <name>HÄVARM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1473446</c4_sysid>
+      <replaces>&quot;AY00000688&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230327089</ean_number>
+      <updated_at>2021-01-13T10:18:13.282000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>8241.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>9941.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>163338</sku>
+    <name>RÖR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2239962</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236221961</ean_number>
+      <updated_at>2021-01-13T10:18:13.391000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>828</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>92.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

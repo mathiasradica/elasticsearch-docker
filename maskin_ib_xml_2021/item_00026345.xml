@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>PIPVF400-B</sku>
+    <name>HOLMS FJÄRILSPLOG PVF 400</name>
+    <status>disabled</status>
+    <attributes store="admin">
+      <status>0</status>
+      <c4_status>2</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2242340</c4_sysid>
+      <updated_at>2021-01-19T13:53:16.685000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>1341510</supplier>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>V70057500LMC</sku>
+    <name>KOMBISTRÖMSTÄLLARE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>KOMBI-STRÖMSTÄLLARE</description>
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Lantmännen Maskin Classic</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>311213</model>
+          <year>1997-2000</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1802881</c4_sysid>
+      <replaces>&quot;V-70057500&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235093811</ean_number>
+      <updated_at>2021-01-19T13:53:17.049000</updated_at>
+      <categories>1802969,1905195</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Valmet/Valtra</manufacturer>
+          <reference>70057500</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;V70057500&quot;</competitor_references>
+      <supplier>453</supplier>
+      <images>
+        <image>
+          <filename>322337.jpg</filename>
+        </image>
+        <image>
+          <filename>2112541.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2050.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>0006506991</sku>
+    <name>SVETSDEL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315759</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>315761</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>315931</model>
+          <year></year>
+          <serials>C03</serials>
+        </fits_to>
+        <fits_to>
+          <model>315959</model>
+          <year></year>
+          <serials>C06</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1851804</c4_sysid>
+      <replaces>&quot;AY00000827&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322233383853</ean_number>
+      <updated_at>2021-01-14T08:48:10.507000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <images>
+        <image>
+          <filename>1851801.png</filename>
+        </image>
+        <image>
+          <filename>1851803.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>845.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>1020.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

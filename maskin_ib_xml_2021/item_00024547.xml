@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>V658340LMC</sku>
+    <name>LJUDDÄMPARE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>LJUDDÄMPARE</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Lantmännen Maskin Classic</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>311197</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1706728</c4_sysid>
+      <replaces>&quot;S.112366&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322235091893</ean_number>
+      <updated_at>2021-01-14T14:03:15.665000</updated_at>
+      <categories>1706732,1783036</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Valmet/Valtra</manufacturer>
+          <reference>658340</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.112366&quot;</competitor_references>
+      <supplier>143</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>490.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>588.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>50001218011</sku>
+    <name>SEXKANTSKRUV M12X180 10.9 ZNNI</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2240410</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236222357</ean_number>
+      <updated_at>2021-01-14T14:03:15.977000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>828</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>43.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>V658340</sku>
+    <name>LJUDDÄMPARE.</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Valtra</manufacturer>
+      <c4_sysid>844831</c4_sysid>
+      <replaces>&quot;V658340LMC&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322232236921</ean_number>
+      <updated_at>2021-01-14T14:03:16.275000</updated_at>
+      <categories>1783036</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;V658340&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>660.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1569184</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>4807023</sku>
+    <name>TRANSMISSIONSFILTER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>TRANSMISSIONSFILTER</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Lantmännen Maskin Classic</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>311183</model>
+          <year>1986-1987</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311182</model>
+          <year>1986-1987</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1393333</c4_sysid>
+      <replaces>&quot;S.55702&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235510516</ean_number>
+      <updated_at>2021-01-14T14:03:16.618000</updated_at>
+      <categories>1878115,1905360</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Volvo</manufacturer>
+          <reference>VOE4787923</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Volvo</manufacturer>
+          <reference>4787923</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;BT735&quot;</competitor_references>
+      <supplier>173</supplier>
+      <images>
+        <image>
+          <filename>322337.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>236.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.55702</sku>
+    <name>HYDRAULFILTER HF6141</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Fleetguard</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>311183</model>
+          <year>1986-1987</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311182</model>
+          <year>1986-1987</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1880023</c4_sysid>
+      <replaces>&quot;BM-4787923&quot;,&quot;V4787923&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-14T14:03:16.821000</updated_at>
+      <categories>1880051,1905359</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Coopers Filters</manufacturer>
+          <reference>HSM6000</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Donaldson Filters</manufacturer>
+          <reference>P550230</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Donaldson Filters</manufacturer>
+          <reference>P779604</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Fleetguard</manufacturer>
+          <reference>HF6141</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Hifi-Jurafil Filters</manufacturer>
+          <reference>SH56191</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Mann Filters</manufacturer>
+          <reference>6750558146</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Mann Filters</manufacturer>
+          <reference>WD962</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Valmet/Valtra</manufacturer>
+          <reference>V4787923</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Volvo</manufacturer>
+          <reference>4720309</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Volvo</manufacturer>
+          <reference>47879234</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Claas</manufacturer>
+          <reference>0006336580</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Claas</manufacturer>
+          <reference>6336580</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Deutz-Fahr</manufacturer>
+          <reference>1180977</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Donaldson Filters</manufacturer>
+          <reference>P779604</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>GULDNER</manufacturer>
+          <reference>9831629</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Mann Filters</manufacturer>
+          <reference>WD962</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>2979653M1</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.55702&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>2115142.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>266.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>330.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

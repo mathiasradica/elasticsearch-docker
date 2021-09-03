@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>S.4894</sku>
+    <name>SKRUV UNF 5/16&quot;X1.1/2&quot; 8.8 DI</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>313284</model>
+          <year>1972-1976</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313281</model>
+          <year>1964-1967</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313288</model>
+          <year>1971-1973</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313307</model>
+          <year>1985-1987</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313308</model>
+          <year>1986-1987</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1585791</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-11T10:33:16.427000</updated_at>
+      <categories>1723202,1845374,1910391,1912696</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>10746261</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>1853127M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>353523X1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>353524X1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1853127M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>353523X1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>1853127M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>353523X1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>353524X1</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.4894&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1585790.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>3.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>2.600000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>4.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

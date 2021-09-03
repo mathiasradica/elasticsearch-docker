@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>0002154670</sku>
+    <name>LAGER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315877</model>
+          <year></year>
+          <serials>C74</serials>
+        </fits_to>
+        <fits_to>
+          <model>315880</model>
+          <year></year>
+          <serials>C74</serials>
+        </fits_to>
+        <fits_to>
+          <model>315884</model>
+          <year></year>
+          <serials>C74</serials>
+        </fits_to>
+        <fits_to>
+          <model>315889</model>
+          <year></year>
+          <serials>C75</serials>
+        </fits_to>
+        <fits_to>
+          <model>315892</model>
+          <year></year>
+          <serials>C75</serials>
+        </fits_to>
+        <fits_to>
+          <model>315896</model>
+          <year></year>
+          <serials>C75</serials>
+        </fits_to>
+        <fits_to>
+          <model>315899</model>
+          <year></year>
+          <serials>C76</serials>
+        </fits_to>
+        <fits_to>
+          <model>315901</model>
+          <year></year>
+          <serials>C76</serials>
+        </fits_to>
+        <fits_to>
+          <model>315964</model>
+          <year></year>
+          <serials>L17</serials>
+        </fits_to>
+        <fits_to>
+          <model>315968</model>
+          <year></year>
+          <serials>L17</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1456457</c4_sysid>
+      <replaces>&quot;AY00002145&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230192113</ean_number>
+      <updated_at>2021-01-19T09:08:10.690000</updated_at>
+      <categories>1742828,1810166</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>144.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>174.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14722215</sku>
+    <name>STOLSDYNA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2242272</c4_sysid>
+      <ean_number>7322236223279</ean_number>
+      <updated_at>2021-01-19T09:08:10.940000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2512.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE16901527</sku>
+    <name>SÄKERHETSDEKAL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2242186</c4_sysid>
+      <ean_number>7322236223026</ean_number>
+      <updated_at>2021-01-19T09:08:11.299000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>20.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0000600162</sku>
+    <name>BUSSNING</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315787</model>
+          <year></year>
+          <serials>094</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1449856</c4_sysid>
+      <replaces>&quot;0000600160&quot;,&quot;AY00002077&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230127559</ean_number>
+      <updated_at>2021-01-19T09:08:11.455000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>53.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>64.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

@@ -1,0 +1,2061 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>400523</sku>
+    <name>HARVSPETS STD (STYCK)</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Väderstad</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>316868</model>
+          <year></year>
+          <serials>553-1177, 1178-1739, 1740-2149</serials>
+        </fits_to>
+        <fits_to>
+          <model>316869</model>
+          <year></year>
+          <serials>1025-1549, 1550-2149</serials>
+        </fits_to>
+        <fits_to>
+          <model>316870</model>
+          <year></year>
+          <serials>1550-2149</serials>
+        </fits_to>
+        <fits_to>
+          <model>316871</model>
+          <year></year>
+          <serials>1550-2149</serials>
+        </fits_to>
+        <fits_to>
+          <model>316879</model>
+          <year></year>
+          <serials>101-286</serials>
+        </fits_to>
+        <fits_to>
+          <model>316874</model>
+          <year></year>
+          <serials>101-399, 400-552, 553-1177, 1178-1739, 1740-2149</serials>
+        </fits_to>
+        <fits_to>
+          <model>316875</model>
+          <year></year>
+          <serials>101-399, 400-552, 553-1177, 1178-1739, 1740-2149</serials>
+        </fits_to>
+        <fits_to>
+          <model>316876</model>
+          <year></year>
+          <serials>101-399, 400-552, 553-1177, 1178-1739, 1740-2149</serials>
+        </fits_to>
+        <fits_to>
+          <model>316877</model>
+          <year></year>
+          <serials>101-399, 400-552, 553-1177, 1178-1739, 1740-2149</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1809970</c4_sysid>
+      <replaces>&quot;400523-1&quot;,&quot;6TGL,138&quot;</replaces>
+      <qty_increments>25.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:35.369000</updated_at>
+      <categories>1764926,1809972,1809974,1809975,1927151,1927043</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;400523-25/66&quot;</competitor_references>
+      <supplier>828</supplier>
+      <images>
+        <image>
+          <filename>1809973.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>30.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1132439,1764926,1809972,1809974,1813773,1813817,1846128,1893443</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>192213</sku>
+    <name>HARVSPETS W:35MM HEAVY</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>8 mm variant av 400523, säljs endast i 20 pack bult och mutter ingår ej</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Väderstad</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315660</model>
+          <year></year>
+          <serials>25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315658</model>
+          <year></year>
+          <serials>25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315656</model>
+          <year></year>
+          <serials>25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315655</model>
+          <year></year>
+          <serials>27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315652</model>
+          <year></year>
+          <serials>25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315651</model>
+          <year></year>
+          <serials>27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315649</model>
+          <year></year>
+          <serials>25000-27368</serials>
+        </fits_to>
+        <fits_to>
+          <model>315661</model>
+          <year></year>
+          <serials>25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>317064</model>
+          <year></year>
+          <serials>100-99999</serials>
+        </fits_to>
+        <fits_to>
+          <model>317065</model>
+          <year></year>
+          <serials>100-99999</serials>
+        </fits_to>
+        <fits_to>
+          <model>317066</model>
+          <year></year>
+          <serials>100-99999</serials>
+        </fits_to>
+        <fits_to>
+          <model>317067</model>
+          <year></year>
+          <serials>100-99999</serials>
+        </fits_to>
+        <fits_to>
+          <model>317068</model>
+          <year></year>
+          <serials>100-99999</serials>
+        </fits_to>
+        <fits_to>
+          <model>317069</model>
+          <year></year>
+          <serials>100-99999</serials>
+        </fits_to>
+        <fits_to>
+          <model>317070</model>
+          <year></year>
+          <serials>100-99999</serials>
+        </fits_to>
+        <fits_to>
+          <model>317071</model>
+          <year></year>
+          <serials>355-697</serials>
+        </fits_to>
+        <fits_to>
+          <model>317072</model>
+          <year></year>
+          <serials>355-697</serials>
+        </fits_to>
+        <fits_to>
+          <model>317057</model>
+          <year></year>
+          <serials>180-</serials>
+        </fits_to>
+        <fits_to>
+          <model>317058</model>
+          <year></year>
+          <serials>180-</serials>
+        </fits_to>
+        <fits_to>
+          <model>317059</model>
+          <year></year>
+          <serials>180-</serials>
+        </fits_to>
+        <fits_to>
+          <model>317060</model>
+          <year></year>
+          <serials>180-</serials>
+        </fits_to>
+        <fits_to>
+          <model>317061</model>
+          <year></year>
+          <serials>180-</serials>
+        </fits_to>
+        <fits_to>
+          <model>317062</model>
+          <year></year>
+          <serials>180-</serials>
+        </fits_to>
+        <fits_to>
+          <model>317063</model>
+          <year></year>
+          <serials>180-</serials>
+        </fits_to>
+        <fits_to>
+          <model>317051</model>
+          <year></year>
+          <serials>1030-</serials>
+        </fits_to>
+        <fits_to>
+          <model>317052</model>
+          <year></year>
+          <serials>1030-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316866</model>
+          <year></year>
+          <serials>17001-17555, 17556-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316848</model>
+          <year></year>
+          <serials>171-1528, 1529-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316865</model>
+          <year></year>
+          <serials>17001-17555, 17556-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316847</model>
+          <year></year>
+          <serials>171-1528, 1529-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316862</model>
+          <year></year>
+          <serials>17001-17555, 17556-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316863</model>
+          <year></year>
+          <serials>17001-17555</serials>
+        </fits_to>
+        <fits_to>
+          <model>316864</model>
+          <year></year>
+          <serials>17001-17555</serials>
+        </fits_to>
+        <fits_to>
+          <model>316861</model>
+          <year></year>
+          <serials>16001-17921, 17922-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316846</model>
+          <year></year>
+          <serials>16001-17921, 17922-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316860</model>
+          <year></year>
+          <serials>16001-17921, 17922-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316845</model>
+          <year></year>
+          <serials>16001-17921, 17922-</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1764926</c4_sysid>
+      <replaces>&quot;400523&quot;</replaces>
+      <qty_increments>20.000000</qty_increments>
+      <ean_number>7322235468510</ean_number>
+      <updated_at>2021-01-07T18:28:35.510000</updated_at>
+      <categories>1809972,1809974,1809970,1764955,1809975,1875414,1927151,1927043</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;192213-20&quot;</competitor_references>
+      <supplier>828</supplier>
+      <images>
+        <image>
+          <filename>1893442.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>43.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1809970,1809972,1809974,1813773,1813817,1846128,1893443</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>302300</sku>
+    <name>HARVSPETS &quot;AGRILLA&quot;</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Väderstad</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315232</model>
+          <year></year>
+          <serials>101-255</serials>
+        </fits_to>
+        <fits_to>
+          <model>315227</model>
+          <year></year>
+          <serials>256-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315229</model>
+          <year></year>
+          <serials>101-255, 256-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315228</model>
+          <year></year>
+          <serials>256-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315230</model>
+          <year></year>
+          <serials>101-255, 256-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315231</model>
+          <year></year>
+          <serials>101-255, 256-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315661</model>
+          <year></year>
+          <serials>20000-24731, 24732-24999, 25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315649</model>
+          <year></year>
+          <serials>20000-24731, 24732-24999, 25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315651</model>
+          <year></year>
+          <serials>27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315652</model>
+          <year></year>
+          <serials>20000-24731, 24732-24999, 25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315655</model>
+          <year></year>
+          <serials>27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315656</model>
+          <year></year>
+          <serials>20000-24731, 24732-24999, 25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315658</model>
+          <year></year>
+          <serials>20000-24731, 24732-24999, 25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>315660</model>
+          <year></year>
+          <serials>20000-24731, 24732-24999, 25000-27368, 27369-</serials>
+        </fits_to>
+        <fits_to>
+          <model>316731</model>
+          <year></year>
+          <serials>100-9999</serials>
+        </fits_to>
+        <fits_to>
+          <model>316732</model>
+          <year></year>
+          <serials>100-9999</serials>
+        </fits_to>
+        <fits_to>
+          <model>316733</model>
+          <year></year>
+          <serials>100-9999</serials>
+        </fits_to>
+        <fits_to>
+          <model>316845</model>
+          <year></year>
+          <serials>100-2211</serials>
+        </fits_to>
+        <fits_to>
+          <model>316846</model>
+          <year></year>
+          <serials>100-2211</serials>
+        </fits_to>
+        <fits_to>
+          <model>316882</model>
+          <year></year>
+          <serials>10026-11999</serials>
+        </fits_to>
+        <fits_to>
+          <model>316883</model>
+          <year></year>
+          <serials>10026-11999</serials>
+        </fits_to>
+        <fits_to>
+          <model>316884</model>
+          <year></year>
+          <serials>10026-11999</serials>
+        </fits_to>
+        <fits_to>
+          <model>316885</model>
+          <year></year>
+          <serials>10000-10025</serials>
+        </fits_to>
+        <fits_to>
+          <model>316886</model>
+          <year></year>
+          <serials>10000-10025</serials>
+        </fits_to>
+        <fits_to>
+          <model>316887</model>
+          <year></year>
+          <serials>10000-10025</serials>
+        </fits_to>
+        <fits_to>
+          <model>316860</model>
+          <year></year>
+          <serials>100-2211</serials>
+        </fits_to>
+        <fits_to>
+          <model>316861</model>
+          <year></year>
+          <serials>100-2211</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1809971</c4_sysid>
+      <replaces>&quot;302300-1&quot;,&quot;302300-25&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:35.682000</updated_at>
+      <categories>1809975,1927151,1927043</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>77779</manufacturer>
+          <reference>VADERSTAD</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;302300-20/33&quot;</competitor_references>
+      <supplier>828</supplier>
+      <images>
+        <image>
+          <filename>1285556.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>80.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1285557,1765091,1805664</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>618078</sku>
+    <name>EQUERRE GAUCHE PLAQUE BASE AH8</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237945</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236219784</ean_number>
+      <updated_at>2021-01-07T18:28:36.072000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>022</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>110.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>100660</sku>
+    <name>SPRING PIN</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237946</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236219791</ean_number>
+      <updated_at>2021-01-07T18:28:36.307000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>336</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>199.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>BB6200-78P</sku>
+    <name>BOGBALLE M35W PLUS CALIBRATOR</name>
+    <status>disabled</status>
+    <attributes store="admin">
+      <status>0</status>
+      <c4_status>2</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1896763</c4_sysid>
+      <updated_at>2021-01-07T18:28:36.869000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>177</supplier>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>Z514900060070</sku>
+    <name>STARTER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1674771</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236025705</ean_number>
+      <updated_at>2021-01-07T18:28:37.526000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>455</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>3100.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>6000275</sku>
+    <name>TAPP BOGGILYFT-LÅDA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237947</c4_sysid>
+      <ean_number>7322236219807</ean_number>
+      <updated_at>2021-01-07T18:28:37.635000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>203</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>183.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S596651</sku>
+    <name>SYMBOLPLATTA GRÖN HUVUD.B</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Symbolplatta grön, vit symbol huvudbrytare för belysning</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>K G KNUTSSON </manufacturer>
+      <c4_sysid>645997</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322234422889</ean_number>
+      <updated_at>2021-01-07T18:28:37.807000</updated_at>
+      <categories>1738959,1905314</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S 596 651&quot;</competitor_references>
+      <supplier>071</supplier>
+      <images>
+        <image>
+          <filename>645996.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>16.400000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.129605</sku>
+    <name>60082RS NTN Bearing</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1357405</c4_sysid>
+      <replaces>&quot;6008-2RS&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:38.041000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Bearings Reference</manufacturer>
+          <reference>6008</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Bearings Reference</manufacturer>
+          <reference>60082RS</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Fiat</manufacturer>
+          <reference>24905120</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>28042480</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>81866857</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>86516078</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>339780X1</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.129605&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1370165.jpg</filename>
+        </image>
+        <image>
+          <filename>1357729.jpg</filename>
+        </image>
+        <image>
+          <filename>1365811.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>124.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>154.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.129661</sku>
+    <name>SPÅRKULLAGER 6304-2RS NTN</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1899926</c4_sysid>
+      <replaces>&quot;6304-2RS&quot;,&quot;6304-2Z&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:38.166000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Bearings Reference</manufacturer>
+          <reference>6304</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Bearings Reference</manufacturer>
+          <reference>6304 2RS</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Bearings Reference</manufacturer>
+          <reference>63042RS</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Fiat</manufacturer>
+          <reference>28996660</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Kubota</manufacturer>
+          <reference>8101-06304</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>391360X1</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.129661&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1370165.jpg</filename>
+        </image>
+        <image>
+          <filename>1357729.jpg</filename>
+        </image>
+        <image>
+          <filename>1365811.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>140.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>104.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>6301-2RS</sku>
+    <name>SPÅRKULLAGER 6301-2RSH</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Kullager 6301-2RSH&lt;br&gt;Huvudmått&lt;br&gt;D:37 mm&lt;br&gt;d:12 mm&lt;br&gt;B:12 mm</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>SKF</manufacturer>
+      <c4_sysid>1896531</c4_sysid>
+      <replaces>&quot;27,75006301-2RS&quot;,&quot;27,75006301-2_A&quot;,&quot;6301-2RSH&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7316571821276</ean_number>
+      <updated_at>2021-01-07T18:28:38.291000</updated_at>
+      <categories>1875105</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;6301-2RSH&quot;</competitor_references>
+      <supplier>202</supplier>
+      <images>
+        <image>
+          <filename>1333067.jpg</filename>
+        </image>
+        <image>
+          <filename>1337926.gif</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>101.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>109.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>M_6386-60</sku>
+    <name>NaviCom, trådlös kommunikation</name>
+    <status>disabled</status>
+    <attributes store="admin">
+      <status>0</status>
+      <c4_status>2</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237948</c4_sysid>
+      <updated_at>2021-01-07T18:28:38.432000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>177</supplier>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.129655</sku>
+    <name>SPÅRKULLAGER 6301-2RS NTN</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1896550</c4_sysid>
+      <replaces>&quot;6301-2RS&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:38.698000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Bearings Reference</manufacturer>
+          <reference>6301</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Bearings Reference</manufacturer>
+          <reference>6301 2RS</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Bearings Reference</manufacturer>
+          <reference>63012RS</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.129655&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1370165.jpg</filename>
+        </image>
+        <image>
+          <filename>1357729.jpg</filename>
+        </image>
+        <image>
+          <filename>1365811.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>99.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>92.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.21886</sku>
+    <name>SPÅRKULLAGER 626-2RS 6X19X6</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1383610</c4_sysid>
+      <replaces>&quot;626-2RS&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:38.854000</updated_at>
+      <categories>1810166</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.21886&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1370519.jpg</filename>
+        </image>
+        <image>
+          <filename>1371460.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>33.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>41.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>9000003525</sku>
+    <name>CYLINDER 3500/250 DV</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237949</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236219821</ean_number>
+      <updated_at>2021-01-07T18:28:39.010000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>785</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2530.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>BB6200-78B</sku>
+    <name>BOGBALLE M35W BASE CALIBRATOR</name>
+    <status>disabled</status>
+    <attributes store="admin">
+      <status>0</status>
+      <c4_status>2</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1896756</c4_sysid>
+      <updated_at>2021-01-07T18:28:39.619000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>177</supplier>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AVX13X1185</sku>
+    <name>OPTIBELT MARATHON 1</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237950</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236219838</ean_number>
+      <updated_at>2021-01-07T18:28:39.885000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>151</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>225.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>V836379786</sku>
+    <name>VEVSTAKSLAGER SATS 0,25MM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1853480</c4_sysid>
+      <replaces>&quot;836379786&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235722117</ean_number>
+      <updated_at>2021-01-07T18:28:40.760000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;836379786&quot;</competitor_references>
+      <supplier>451</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>679.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>SE EPSILON</sku>
+    <name>SE EPSILON</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1743493</c4_sysid>
+      <replaces>&quot;1679349M93&quot;,&quot;3581576M3&quot;,&quot;3583286M1&quot;,&quot;3712819M11&quot;,&quot;3785335M1&quot;,&quot;3789453M92&quot;,&quot;3790881M1&quot;,&quot;3796040M1&quot;,&quot;3798512M96&quot;,&quot;3799229M5&quot;,&quot;3808293M91&quot;,&quot;3901583M10&quot;,&quot;3902123M2&quot;,&quot;3904296M1&quot;,&quot;3907537M1&quot;,&quot;4226937M91&quot;,&quot;4271130M1&quot;,&quot;4271312M91&quot;,&quot;4278077M1&quot;,&quot;4278972M1&quot;,&quot;4286085M2&quot;,&quot;4288716M1&quot;,&quot;4289593M2&quot;,&quot;4303593M91&quot;,&quot;4309229M1&quot;,&quot;4314818M1&quot;,&quot;4314917M92&quot;,&quot;4348350M2&quot;,&quot;4364664M1&quot;,&quot;4388049M2&quot;,&quot;6249027M1&quot;,&quot;6272662M91&quot;,&quot;650613050330&quot;,&quot;700141830&quot;,&quot;7063630M91&quot;,&quot;737812045050&quot;,&quot;836136210&quot;,&quot;836662073&quot;,&quot;945100410020&quot;,&quot;ACP0146970&quot;,&quot;ACP0286710&quot;,&quot;ACP0295450&quot;,&quot;ACV002718A&quot;,&quot;ACV022758B&quot;,&quot;ACW0142460&quot;,&quot;ACW1125880&quot;,&quot;ACW1232250&quot;,&quot;D28260237&quot;,&quot;D28580202&quot;,&quot;D28752130&quot;,&quot;D28752131&quot;,&quot;D41624100&quot;,&quot;F260310020340&quot;,&quot;F716900041020&quot;,&quot;F716961020180&quot;,&quot;F824100090530&quot;,&quot;F931812140170&quot;,&quot;FEL426306&quot;,&quot;G411971010030&quot;,&quot;G835970210068&quot;,&quot;G916950010021&quot;,&quot;G931812140603&quot;,&quot;H718202050101&quot;,&quot;H718501020720&quot;,&quot;H737812030162&quot;,&quot;LA340411009&quot;,&quot;V30643600&quot;,&quot;V32679310&quot;,&quot;V32902000&quot;,&quot;V33350210&quot;,&quot;V33664100&quot;,&quot;V34034300&quot;,&quot;V34056800&quot;,&quot;V34591600&quot;,&quot;V34945310&quot;,&quot;V36245800&quot;,&quot;V36329100&quot;,&quot;V36477900&quot;,&quot;V37733800&quot;,&quot;V63357300&quot;,&quot;V63357500&quot;,&quot;V63878500&quot;,&quot;V63901500&quot;,&quot;V81884400&quot;,&quot;V836129315&quot;,&quot;V836136210&quot;,&quot;V836331590&quot;,&quot;V836338650&quot;,&quot;V836338652&quot;,&quot;V836436209&quot;,&quot;V836640848&quot;,&quot;V836664394&quot;,&quot;V836666609&quot;,&quot;V836873290&quot;,&quot;V837074393&quot;,&quot;V837084091&quot;,&quot;X830240058000&quot;,&quot;X899980206218&quot;,&quot;X991470018000&quot;,&quot;Z099743000001&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:41.229000</updated_at>
+      <categories>1743494</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>grouped</type>
+  </product>
+  <product>
+    <sku>S.8793</sku>
+    <name>SKRUV U6S 5/16 UNC X3/4&quot; 8.8 D</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1586502</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:46.823000</updated_at>
+      <categories>1837324,1910374</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.8793&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1586501.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>3.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>3.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>835020020087</sku>
+    <name>INSTRUKT.BOK</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>797868</c4_sysid>
+      <replaces>&quot;835020020081&quot;,&quot;835020020086&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:46.963000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;835020020087&quot;</competitor_references>
+      <supplier>450</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>339.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>616,683-9</sku>
+    <name>TEGERA 683 SYNTETD.HANDSKE stl</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>TEGERA® 683&lt;br&gt;Syntethandske, nitril, 3/4 doppad, akryl, nylon,&lt;br&gt;polyester, 7 gg, 13 gg, sandad greppyta, Cat. II, gul&lt;br&gt;varsel, svart, varselfärg, vattenavvisande innerhand, för&lt;br&gt;grövre arbeten&lt;br&gt;EGENSKAPER&lt;br&gt;Slitstark, varm&lt;br&gt;SPECIFIKATION&lt;br&gt;TYP AV HANDSKE Köldisolerande handskar&lt;br&gt;KATEGORI Cat. II&lt;br&gt;STORLEKAR 7, 8, 9, 10, 11&lt;br&gt;LINER-MATERIAL Akryl, nylon, polyester, 7 gg, 13 gg&lt;br&gt;DOPPNING 3/4 doppad&lt;br&gt;DOPPNINGSMATERIAL Nitril&lt;br&gt;SMIDIGHET 5&lt;br&gt;GREPPMÖNSTER Sandad greppyta&lt;br&gt;KRAGMODELL Stickad mudd&lt;br&gt;LÄNGDER 240-280 mm&lt;br&gt;FÄRG Gul varsel, svart&lt;br&gt;PAR PER BUNT/KARTONG 6/60&lt;br&gt;DISPLAY Krok med hangtag&lt;br&gt;MATERIALSPECIFIKATIO</description>
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Ejendals</manufacturer>
+      <c4_sysid>1557589</c4_sysid>
+      <replaces>&quot;616,6283-9&quot;</replaces>
+      <ean_number>7340118316666</ean_number>
+      <updated_at>2021-01-07T18:28:47.120000</updated_at>
+      <categories>1784013,1907783</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>616</supplier>
+      <images>
+        <image>
+          <filename>2204224.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>52.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>39849</sku>
+    <name>LUFTFILTER YTTRE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1495846</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235288019</ean_number>
+      <updated_at>2021-01-07T18:28:47.292000</updated_at>
+      <categories>1888374,1905355</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>327</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>375.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>39850</sku>
+    <name>LUFTFILTER INRE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1496109</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235288002</ean_number>
+      <updated_at>2021-01-07T18:28:47.510000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>327</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>310.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>616,683-10</sku>
+    <name>TEGERA 683 SYNTETD.HANDSKE stl</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>TEGERA® 683&lt;br&gt;Syntethandske, nitril, 3/4 doppad, akryl, nylon,&lt;br&gt;polyester, 7 gg, 13 gg, sandad greppyta, Cat. II, gul&lt;br&gt;varsel, svart, varselfärg, vattenavvisande innerhand, för&lt;br&gt;grövre arbeten&lt;br&gt;EGENSKAPER&lt;br&gt;Slitstark, varm&lt;br&gt;SPECIFIKATION&lt;br&gt;TYP AV HANDSKE Köldisolerande handskar&lt;br&gt;KATEGORI Cat. II&lt;br&gt;STORLEKAR 7, 8, 9, 10, 11&lt;br&gt;LINER-MATERIAL Akryl, nylon, polyester, 7 gg, 13 gg&lt;br&gt;DOPPNING 3/4 doppad&lt;br&gt;DOPPNINGSMATERIAL Nitril&lt;br&gt;SMIDIGHET 5&lt;br&gt;GREPPMÖNSTER Sandad greppyta&lt;br&gt;KRAGMODELL Stickad mudd&lt;br&gt;LÄNGDER 240-280 mm&lt;br&gt;FÄRG Gul varsel, svart&lt;br&gt;PAR PER BUNT/KARTONG 6/60&lt;br&gt;DISPLAY Krok med hangtag&lt;br&gt;MATERIALSPECIFIKATIO</description>
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Ejendals</manufacturer>
+      <c4_sysid>1557533</c4_sysid>
+      <replaces>&quot;616,6283-10&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>73222342836267392626072336</ean_number>
+      <updated_at>2021-01-07T18:28:47.713000</updated_at>
+      <categories>1784013,1907783</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>616</supplier>
+      <images>
+        <image>
+          <filename>2204224.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>52.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>500032494</sku>
+    <name>FIXING PLATE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1551958</c4_sysid>
+      <replaces>&quot;J32494&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>5700038605684</ean_number>
+      <updated_at>2021-01-07T18:28:48.417000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>027</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>913.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>1090.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>9905322</sku>
+    <name>LOCK KATALYSATORHUV</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237951</c4_sysid>
+      <ean_number>7322236219845</ean_number>
+      <updated_at>2021-01-07T18:28:50.698000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>203</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>5151.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>9905301</sku>
+    <name>KATALYSATORBOX</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237952</c4_sysid>
+      <ean_number>7322236219852</ean_number>
+      <updated_at>2021-01-07T18:28:50.979000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>203</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>22186.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>3055718R1</sku>
+    <name>REMSKIVA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1610337</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230721627</ean_number>
+      <updated_at>2021-01-07T18:28:51.557000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>003</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>9150.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>11400.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0006292150</sku>
+    <name>SPACER SLEEVE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237953</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236219869</ean_number>
+      <updated_at>2021-01-07T18:28:52.198000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>526.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>5836004488</sku>
+    <name>MUNSTYCKE HDS 7/16</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237954</c4_sysid>
+      <ean_number>7322236219906</ean_number>
+      <updated_at>2021-01-07T18:28:53.432000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>002</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>297.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>RC10780TS</sku>
+    <name>PACKNINGSSET</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237955</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322236219876</ean_number>
+      <updated_at>2021-01-07T18:28:53.870000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>413</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1620.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>2030.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>5836004489</sku>
+    <name>MUNSTYCKE HDS 9/17</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237956</c4_sysid>
+      <ean_number>7322236219890</ean_number>
+      <updated_at>2021-01-07T18:28:54.198000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>002</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>297.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>Z946201010021</sku>
+    <name>***RENOVERADE MOTOR***</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1675083</c4_sysid>
+      <replaces>&quot;Z946201010020&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:28:54.464000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>455</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>263000.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>5836004491</sku>
+    <name>MUNSTYCKE HDS 13/20</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2237957</c4_sysid>
+      <ean_number>7322236219883</ean_number>
+      <updated_at>2021-01-07T18:28:54.573000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>002</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>297.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0002393951</sku>
+    <name>BRICKA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1460247</c4_sysid>
+      <replaces>&quot;0002393950&quot;,&quot;AY00003401&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230216161</ean_number>
+      <updated_at>2021-01-07T18:28:55.667000</updated_at>
+      <categories>1742433,1742752,1743052</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>10.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>13.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

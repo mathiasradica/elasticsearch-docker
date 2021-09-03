@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>4956-11</sku>
+    <name>LINA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1684379</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <updated_at>2021-01-07T18:43:17.641000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>882</supplier>
+      <images>
+        <image>
+          <filename>1684378.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1166.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.105953</sku>
+    <name>INSPRUTNINGSPUMP</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Perkins A4.236</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>313284</model>
+          <year>1972-1976</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313307</model>
+          <year>1985-1987</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313361</model>
+          <year>1988-1991</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313440</model>
+          <year>1976-1982</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313441</model>
+          <year>1976-1983</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313554</model>
+          <year>1982-1986</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1879405</c4_sysid>
+      <replaces>&quot;3241F350&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:43:18.719000</updated_at>
+      <categories>1809607</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>CAV</manufacturer>
+          <reference>2643C183</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>CAV</manufacturer>
+          <reference>3241F140</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>CAV</manufacturer>
+          <reference>3241F350</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>CAV</manufacturer>
+          <reference>3241F351</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>CAV</manufacturer>
+          <reference>3241F352</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1447170M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1447172M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1447175M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>CAV</manufacturer>
+          <reference>3241F140</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>CAV</manufacturer>
+          <reference>3241F350</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>CAV</manufacturer>
+          <reference>3241F351</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>CAV</manufacturer>
+          <reference>3241F352</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>LUCAS</manufacturer>
+          <reference>CAV3841F350</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1447172M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1447175M91</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.105953&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>2192435.jpg</filename>
+        </image>
+        <image>
+          <filename>2192436.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>4590.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>4590.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>4751.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.106828</sku>
+    <name>FLÄKTMOTER MED  HJUL A/C</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>With wheels</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>313557</model>
+          <year>1982-1984</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313555</model>
+          <year>1982-1986</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1773273</c4_sysid>
+      <replaces>&quot;170-5284&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:43:18.953000</updated_at>
+      <categories>1773310,1907711,1915230</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>3302177M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>3310484M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>3302177M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>3310484M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>BOSCH</manufacturer>
+          <reference>0130101502</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Case/IH</manufacturer>
+          <reference>1-34-784-252</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>1-34-784-252</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>3310484M91</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.106828&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>2192706.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1100.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>1100.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>1210.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.15177</sku>
+    <name>DRAGSTÅNG HÖ/VÄ</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Length: 810mm&lt;br&gt; Number of Holes: 4.</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>313326</model>
+          <year>1956-1959</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1577668</c4_sysid>
+      <replaces>&quot;890091&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T18:43:19.797000</updated_at>
+      <categories>1765227,1820428,1902770,1902773</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>81717217</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>957E555</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>1869218M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>1869219M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>1884724M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>1884725M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>810285M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>882697M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>882698M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>882698M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>886428M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>886430M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>886431M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>886431M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>886433M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>890105M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>182632M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1869218M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1884724M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1884725M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>191114M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>882696M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>882697M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>882698M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>882698M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>882698M92*</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>886430M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>886430M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>886431M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>886431M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>886432M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>886433M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>890091M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>890105M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Not Specified</manufacturer>
+          <reference>886 431M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Not Specified</manufacturer>
+          <reference>886431V92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>1869219M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>1884724M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>1884725M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>810285M92</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>882697M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Landini</manufacturer>
+          <reference>882698M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>1869218M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>191114M91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>191114V91</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>882696M91</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.15177&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1577665.jpg</filename>
+        </image>
+        <image>
+          <filename>1577666.jpg</filename>
+        </image>
+        <image>
+          <filename>1577667.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>895.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>895.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>996.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>6386-30</sku>
+    <name>KOMMUNIKATIONS MODUL ZURF</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1547023</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322235042666</ean_number>
+      <updated_at>2021-01-07T18:43:20.219000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>882</supplier>
+      <images>
+        <image>
+          <filename>1547022.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>25410.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>6384-43</sku>
+    <name>UPDATE KABEL USB</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1682636</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322234905641</ean_number>
+      <updated_at>2021-01-07T18:43:20.922000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>882</supplier>
+      <images>
+        <image>
+          <filename>1682634.png</filename>
+        </image>
+        <image>
+          <filename>1682635.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>563.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>6390-30</sku>
+    <name>ELEKTRISK MANÖVRERING AV TREND</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1394564</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322233959058</ean_number>
+      <updated_at>2021-01-07T18:43:21.469000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>882</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>8670.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>6384-45</sku>
+    <name>USB/SERIAL FÖR UPDATE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1683474</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322234905658</ean_number>
+      <updated_at>2021-01-07T18:43:22.125000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>882</supplier>
+      <images>
+        <image>
+          <filename>1683473.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1134.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>6386-35</sku>
+    <name>GPS-ANTENN</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1684027</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322235096010</ean_number>
+      <updated_at>2021-01-07T18:43:22.281000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>882</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>9256.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

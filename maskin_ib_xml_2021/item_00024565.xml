@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>4807274</sku>
+    <name>BRÄNSLEFILTER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>C: Ytterdiameter packning 93mm&lt;br&gt;A: Ytterdiameter 108mm&lt;br&gt;B: Innerdiameter packning 103mm &lt;br&gt;G: Gängstorlekens utgång M32x1.5 &lt;br&gt;H: Höjd 263mm</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>MANN-FILTER</manufacturer>
+      <c4_sysid>1495851</c4_sysid>
+      <replaces>&quot;P550529&quot;,&quot;S.109091&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235836104</ean_number>
+      <updated_at>2021-01-14T16:03:09.493000</updated_at>
+      <categories>1888375,1905358</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Volvo</manufacturer>
+          <reference>VOE15126069</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Volvo</manufacturer>
+          <reference>15126069</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Donaldson Filters</manufacturer>
+          <reference>P550529</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;WDK 11 102/13&quot;</competitor_references>
+      <supplier>200</supplier>
+      <images>
+        <image>
+          <filename>1495850.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>306.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">728203</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE15155712</sku>
+    <name>KONSOL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2240433</c4_sysid>
+      <ean_number>7322236222456</ean_number>
+      <updated_at>2021-01-14T16:03:11.025000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2425.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE15155979</sku>
+    <name>FÄSTPLATTA</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2240434</c4_sysid>
+      <ean_number>7322236222449</ean_number>
+      <updated_at>2021-01-14T16:03:11.196000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>1210.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.109091</sku>
+    <name>BRÄNSLEFILTER FF5506</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Fleetguard</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>313231</model>
+          <year>1996-2001</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313227</model>
+          <year>2015-</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313193</model>
+          <year>2001-2007</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313194</model>
+          <year>2001-2007</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313196</model>
+          <year>2001-2007</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313198</model>
+          <year>2001-2007</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1356256</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-14T16:03:11.353000</updated_at>
+      <categories>1888375,1905358</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Donaldson Filters</manufacturer>
+          <reference>P551773</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Fleetguard</manufacturer>
+          <reference>FF5506</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Hifi-Jurafil Filters</manufacturer>
+          <reference>SN40535</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>John Deere</manufacturer>
+          <reference>RE502204</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>John Deere</manufacturer>
+          <reference>RE506428</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>John Deere</manufacturer>
+          <reference>RE506428</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.109091&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1356254.jpg</filename>
+        </image>
+        <image>
+          <filename>1356255.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>658.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>815.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>4807226</sku>
+    <name>BRANDSLÄCKARE 6KG 43A 233BC</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>6kg&lt;br&gt;Inklusive fordonsstativ</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Presto</manufacturer>
+      <c4_sysid>1784274</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235774253</ean_number>
+      <updated_at>2021-01-21T11:18:11.751000</updated_at>
+      <categories>1784265,1912731</categories>
+      <dangerous_goods>1</dangerous_goods>
+      <competitor_references>&quot;1912&quot;</competitor_references>
+      <supplier>155</supplier>
+      <images>
+        <image>
+          <filename>1897450.jpg</filename>
+        </image>
+        <image>
+          <filename>1897451.jpg</filename>
+        </image>
+        <image>
+          <filename>1897452.jpg</filename>
+        </image>
+        <image>
+          <filename>1897453.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1900.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1764957,1772675,1784261,1784262,1784274,1784275,1784276,1784278,1784279,1784280,1875437,686366</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>171100</sku>
+    <name>PULVERSLÄCKARE PRESTO PG3F</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2243346</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236223941</ean_number>
+      <updated_at>2021-01-21T11:18:12.142000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>155</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>955.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>4807229</sku>
+    <name>BRANDSLÄCKARE 6KG 43A 233BC</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>6 kilos avstängningsbar tryckladdad pulversläckare med manometer. Godkänd enl. 43A 233BC</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>PrestoNordic</manufacturer>
+      <c4_sysid>1784276</c4_sysid>
+      <replaces>&quot;34417&quot;,&quot;48842&quot;,&quot;SK015632&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235774291</ean_number>
+      <updated_at>2021-01-21T11:18:12.345000</updated_at>
+      <categories>1784274,1784265,1912731</categories>
+      <dangerous_goods>1</dangerous_goods>
+      <competitor_references>&quot;19075&quot;</competitor_references>
+      <supplier>155</supplier>
+      <images>
+        <image>
+          <filename>1897454.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1700.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1764957,1784261,1784262,1784277,1875437</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE17476211</sku>
+    <name>WIRING HARNESS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2243347</c4_sysid>
+      <ean_number>7322236223958</ean_number>
+      <updated_at>2021-01-21T11:18:12.470000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2495.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

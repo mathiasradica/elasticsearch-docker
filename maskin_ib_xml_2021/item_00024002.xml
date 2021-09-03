@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>VOE14764702</sku>
+    <name>KÖRMOTOR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1491072</c4_sysid>
+      <replaces>&quot;VOE14704091&quot;,&quot;VOE14738180&quot;</replaces>
+      <updated_at>2021-01-07T20:38:39.290000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE23471978</sku>
+    <name>GENERATOR</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2239219</c4_sysid>
+      <replaces>&quot;VOE17450937&quot;</replaces>
+      <updated_at>2021-01-07T20:38:39.415000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>10698.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.54782</sku>
+    <name>SKRUV M10X40MM 8.8 DIN931</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>314250</model>
+          <year>1980-1984</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314251</model>
+          <year>1984-1987</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314252</model>
+          <year>1984-1987</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314255</model>
+          <year>1972-1977</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314258</model>
+          <year>1980-1984</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314259</model>
+          <year>1980-1984</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314260</model>
+          <year>1984-1987</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314261</model>
+          <year>1984-1987</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314262</model>
+          <year>1972-1977</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314263</model>
+          <year>1972-1977</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314264</model>
+          <year>1977-1980</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314265</model>
+          <year>1977-1980</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314266</model>
+          <year>1980-1984</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314267</model>
+          <year>1980-1984</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314268</model>
+          <year>1984-1993</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314269</model>
+          <year>1984-1993</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314270</model>
+          <year>1985-1993</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314271</model>
+          <year>1985-1993</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314284</model>
+          <year>1972-1977</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314285</model>
+          <year>1972-1977</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314288</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314289</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314290</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314291</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314293</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>314294</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1836738</c4_sysid>
+      <replaces>&quot;09318I1040&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T20:38:39.727000</updated_at>
+      <categories>1809426</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>339018X1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Zetor</manufacturer>
+          <reference>990561</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.54782&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1852497.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2.600000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>4.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>09318I1040</sku>
+    <name>SKRUV M6S M10X40 8.8 ISO 4014</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>MATTSONS I ANDERSTORP</manufacturer>
+      <c4_sysid>1698824</c4_sysid>
+      <replaces>&quot;1111110040&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7392311418302</ean_number>
+      <updated_at>2021-01-07T20:38:39.883000</updated_at>
+      <categories>1691491,1910346</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;0931 8I 10 40&quot;</competitor_references>
+      <supplier>085</supplier>
+      <images>
+        <image>
+          <filename>607983.gif</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>4.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>E73742P</sku>
+    <name>MUTTER M36*1,5 DIN935</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1785118</c4_sysid>
+      <replaces>&quot;121470P&quot;,&quot;73742P&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322232314247</ean_number>
+      <updated_at>2021-01-07T20:38:40.399000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>415</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>340.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>290400</sku>
+    <name>KULLAGER 608-2RS ROTOMAX SPÅNL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1757390</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322234942530</ean_number>
+      <updated_at>2021-01-07T20:38:40.805000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>309</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>122.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>370454</sku>
+    <name>OLJESTICKA 1/2&quot; L=370MM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1758092</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235627986</ean_number>
+      <updated_at>2021-01-07T20:38:41.024000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>309</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>520.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>602016-5</sku>
+    <name>VRIDTAPP Ø25 GRÅ AM/NC 744/755</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1776844</c4_sysid>
+      <replaces>&quot;602016&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235776547</ean_number>
+      <updated_at>2021-01-07T20:38:41.227000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>309</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>248.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.55995</sku>
+    <name>NYLONREP 10MMX36MET.</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Colour: Blue&lt;br&gt;Ø : 10 mm&lt;br&gt;Maximum Breaking Load:1425kg&lt;br&gt;Three strand Single Twist Polypropylene Lorry Rope, complete with eye at one end and sealed at the other&lt;br&gt;Resistant to most Acids, Oils, Alkalis and not affected by water</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1397172</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T20:38:41.399000</updated_at>
+      <categories>1802028,1919711</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.55995&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1397163.jpg</filename>
+        </image>
+        <image>
+          <filename>1397169.jpg</filename>
+        </image>
+        <image>
+          <filename>1397171.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>181.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>224.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE14733334</sku>
+    <name>AIR DUCT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2239220</c4_sysid>
+      <replaces>&quot;VOE14509229&quot;</replaces>
+      <updated_at>2021-01-07T20:38:41.790000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE20450320</sku>
+    <name>SPACER SLEEVE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2239221</c4_sysid>
+      <ean_number>7322236220612</ean_number>
+      <updated_at>2021-01-07T20:38:42.087000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>25.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.109399</sku>
+    <name>OLJEFILTER LF3358</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>ID - End 1: 13.5mm. ID - End 2: 13.5mm. OD - Largest End 1: 110mm. Overall Height: 124mm.</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Fleetguard</manufacturer>
+      <c4_sysid>1842927</c4_sysid>
+      <replaces>&quot;P550170&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T20:38:42.259000</updated_at>
+      <categories>1878115,1905357</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Claas</manufacturer>
+          <reference>133496</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Fleetguard</manufacturer>
+          <reference>LF3358</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Case/IH</manufacturer>
+          <reference>B041402</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Case/IH</manufacturer>
+          <reference>E066014</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Case/IH</manufacturer>
+          <reference>G045008</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Case/IH</manufacturer>
+          <reference>G054008</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Case/IH</manufacturer>
+          <reference>MB1845825</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Claas</manufacturer>
+          <reference>0001334960</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Claas</manufacturer>
+          <reference>133496</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Deutz-Fahr</manufacturer>
+          <reference>1161543</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Deutz-Fahr</manufacturer>
+          <reference>1168465</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Deutz-Fahr</manufacturer>
+          <reference>1168466</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Deutz-Fahr</manufacturer>
+          <reference>1168467</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Deutz-Fahr</manufacturer>
+          <reference>1168468</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Deutz-Fahr</manufacturer>
+          <reference>E1214</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Deutz-Fahr</manufacturer>
+          <reference>P2H4120H</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>A730X6731EA</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>A730X6731FA</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>A780X6731BA</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>A830X6731NA</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>G29T18689</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.109399&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1842925.jpg</filename>
+        </image>
+        <image>
+          <filename>1842926.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>131.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>148.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.11672</sku>
+    <name>INSEXSKRUV 5/16&quot;X1&quot;UNC 12.9</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>self colour</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1846346</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T20:38:42.946000</updated_at>
+      <categories>1793511,1910316</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.11672&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1846345.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>4.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>5.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>X991016103000</sku>
+    <name>SOFTSHELL JACKET STRL L</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <m3_status>50</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>844673</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-07T20:38:43.165000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;X991016103000&quot;</competitor_references>
+      <supplier>456</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>740.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>737.080000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>39547</sku>
+    <name>BRÄNSLEFILTER SLANGMONTERAT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1496089</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235208963</ean_number>
+      <updated_at>2021-01-07T20:38:43.650000</updated_at>
+      <categories>1888375,1905358</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>327</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>75.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

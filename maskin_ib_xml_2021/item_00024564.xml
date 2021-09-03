@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>4807695</sku>
+    <name>TRACTORBUMPER BASIC</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Tractorbumper Basic,&lt;br&gt;Energi absorberande punkter Integrerat Frontskydd med belysning och markning. Inställbar för alla typer av traktorer Justerbar bredd LED belysning Breddmärke enligt lagstiftning Pulverlackerad i kundens önskemål ex John Deere grön, CaseIH svart, New Holland blå</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Tractor Bumper</manufacturer>
+      <c4_sysid>1478679</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236007831</ean_number>
+      <updated_at>2021-01-14T15:33:14.456000</updated_at>
+      <categories>1478683,1820556,1802654,1902785</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>215</supplier>
+      <images>
+        <image>
+          <filename>2218102.jpg</filename>
+        </image>
+        <image>
+          <filename>1478684.jpg</filename>
+        </image>
+        <image>
+          <filename>1478671.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>23900.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>29200.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1138676,1143164,1143499,1156079,1207612,1478674</link>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

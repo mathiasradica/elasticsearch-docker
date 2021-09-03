@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>10023137</sku>
+    <name>SKOP-SS 05-40 VIBRATOR 12V INK</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2239276</c4_sysid>
+      <ean_number>7322236220964</ean_number>
+      <updated_at>2021-01-13T09:33:11.296000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>161</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>7800.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>591,192-40</sku>
+    <name>BLUNDSTONE 192 EU 40 UK 6,5</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Modell 192&lt;br&gt;&lt;br&gt;Oljebehandlat skin, elastisk resår i sidorna samt stålhätta fram vid tårna. Urtagbar PU-innersula med stötdämpande Poron-inlägg i häl och tå. Finns i Strl. 36-49</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Blundstone</manufacturer>
+      <c4_sysid>818918</c4_sysid>
+      <replaces>&quot;591,305-40&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>9315891337557</ean_number>
+      <updated_at>2021-01-13T09:33:11.528000</updated_at>
+      <categories>1772999,1875353,1889039,1907801,1924587</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>591</supplier>
+      <images>
+        <image>
+          <filename>679756.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1099.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

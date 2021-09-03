@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>VOE17509559</sku>
+    <name>AIR VENT HOSE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2243227</c4_sysid>
+      <replaces>&quot;VOE60112830&quot;</replaces>
+      <updated_at>2021-01-20T13:48:14.365000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>V836136409LMC</sku>
+    <name>LUFTFILTER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>LUFTFILTER&lt;br&gt;505-605-705-805-905&lt;br&gt;6400A-6600A&lt;br&gt;6000-6100-6300-6400-6600 till sn F17108&lt;br&gt;8000-8100 till sn F17108</description>
+      <status>1</status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Lantmännen Maskin Classic</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>311176</model>
+          <year>1983-1984</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311188</model>
+          <year>1990-1992</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311197</model>
+          <year>1993-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311206</model>
+          <year>1993-1996</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311207</model>
+          <year>1991-1994</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311209</model>
+          <year>1991-1994</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311210</model>
+          <year>1991-1994</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311178</model>
+          <year>1988-1989</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311211</model>
+          <year>1991-1993</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311198</model>
+          <year>1992-1997</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311192</model>
+          <year>1989-1991</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311225</model>
+          <year>1991-1994</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311180</model>
+          <year>1983-1989</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311194</model>
+          <year>1989-1991</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311162</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>311181</model>
+          <year>1984-1989</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1809459</c4_sysid>
+      <replaces>&quot;V-836136409&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235094481</ean_number>
+      <updated_at>2021-01-20T13:48:14.708000</updated_at>
+      <categories>1809501,1888374,1905355</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Valmet/Valtra</manufacturer>
+          <reference>836136409</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Valmet/Valtra</manufacturer>
+          <reference>836136409</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;V836136409&quot;</competitor_references>
+      <supplier>453</supplier>
+      <images>
+        <image>
+          <filename>2113149.jpg</filename>
+        </image>
+        <image>
+          <filename>322337.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>605.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>VOE60112830</sku>
+    <name>HOSE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1707947</c4_sysid>
+      <ean_number>7322236187489</ean_number>
+      <updated_at>2021-01-20T13:48:15.068000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>001</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>126.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>10188054</sku>
+    <name>P-SATS TELESKOPCYLINDER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2243228</c4_sysid>
+      <ean_number>7322236223705</ean_number>
+      <updated_at>2021-01-20T13:48:15.458000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>323</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>2420.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

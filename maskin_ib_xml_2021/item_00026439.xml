@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>4903025</sku>
+    <name>BALL LOCKING YOKE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2243362</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322236223972</ean_number>
+      <updated_at>2021-01-21T12:03:12.419000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>152</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2760.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>4903026</sku>
+    <name>YOKE OUTER TUBE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2243363</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322236223989</ean_number>
+      <updated_at>2021-01-21T12:03:13.232000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>152</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>4805977</sku>
+    <name>TORKARMOTOR 12V DOGA m P.LÄGE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Torkarmotor Doga modell 113 Med 6 mm axeldiameter och klämlängd 84 mm Med parkeringsläge och med trepunktsfastsättning. Max kapacitet 70 kpcm. Kontinuerligt vridmoment ca 14 kpcm. Utan strömställare 12 volt - slagvinkel 90 grader</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Doga</manufacturer>
+      <c4_sysid>1580464</c4_sysid>
+      <replaces>&quot;53,6811331290&quot;,&quot;BM-562884&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322231025342</ean_number>
+      <updated_at>2021-01-21T12:03:13.513000</updated_at>
+      <categories>1802553,1907757</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;6811331290&quot;</competitor_references>
+      <supplier>053</supplier>
+      <images>
+        <image>
+          <filename>2116271.gif</filename>
+        </image>
+        <image>
+          <filename>2116282.gif</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2855.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>3390.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

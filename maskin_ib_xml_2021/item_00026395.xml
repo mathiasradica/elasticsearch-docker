@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>53,0014</sku>
+    <name>HANDTAG MED LÅS</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>1297865</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-20T09:18:12.296000</updated_at>
+      <categories>1731283,1912858</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;0014&quot;</competitor_references>
+      <supplier>053</supplier>
+      <images>
+        <image>
+          <filename>1297864.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>475.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.6834</sku>
+    <name>M6 FLAT WASHER.BZP.DIN125-1A</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>BZP  (nominal I/D: 1/4&quot;)</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1387656</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-20T09:18:13.031000</updated_at>
+      <categories>1809421</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>353753X1</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.6834&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1387652.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>0.200000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>1.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0125641216</sku>
+    <name>BRICKA BRB M6 ISO 7089 FZB</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Planbricka Stål 6,4x12x1,6  140 HV, DIN 125-1 FORM A, FZB(A2K)</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>MATTSONS I ANDERSTORP</manufacturer>
+      <c4_sysid>1553435</c4_sysid>
+      <replaces>&quot;14001060&quot;</replaces>
+      <qty_increments>200.000000</qty_increments>
+      <ean_number>7392311120915</ean_number>
+      <updated_at>2021-01-20T09:18:14.189000</updated_at>
+      <categories>1917454,1691277</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;0125 64 12 16&quot;</competitor_references>
+      <supplier>085</supplier>
+      <images>
+        <image>
+          <filename>646676.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

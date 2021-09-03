@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>L 68149/Q</sku>
+    <name>LAGER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2243354</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236223965</ean_number>
+      <updated_at>2021-01-21T11:48:12.598000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>202</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>230.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>411702,190</sku>
+    <name>SLANGVÄRMARE 230V 411702</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>SafeStart 700-serien &lt;br&gt;&lt;br&gt;DEFA nummerserie 701-709, 758-799 och 2701-2799. Värmarna består av ett värmeelement och en vattenkammare med in- och utloppsstos anpassade för olika slangdimensioner. Värmarna 758-799 och 2701-2799 består av värmare samt olika monteringsdetaljer (slangar, T-stycken, slangklämmor m.m.). Monteras oftast i slangen till oljekylaren eller till kupéelementet. &lt;br&gt;&lt;br&gt;Spänning [V] 230 &lt;br&gt;Effekt [W] 550-600 &lt;br&gt;Täthetsklass [IP] 44 &lt;br&gt;Test och godkänningar: &lt;br&gt;EMKO-TUB(61)NO 293/91 &lt;br&gt;EN 60335-1, EMKO-TSB(61) &lt;br&gt;NO293A94</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>DEFA</manufacturer>
+      <c4_sysid>480508</c4_sysid>
+      <replaces>&quot;A411702&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-21T11:48:13.004000</updated_at>
+      <categories>1757077,1907728</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>190</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>867.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>417375</sku>
+    <name>PINNAXEL, VINGE 2,3 M</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Väderstad</manufacturer>
+      <c4_sysid>1292136</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <updated_at>2021-01-21T11:48:13.145000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>828</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>3530.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

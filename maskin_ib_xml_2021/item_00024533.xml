@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>23207</sku>
+    <name>480/80R34 ( 18,4R34 ) TL IT-69</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>8</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2240211</c4_sysid>
+      <ean_number>7322236222197</ean_number>
+      <updated_at>2021-01-14T10:33:11.437000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>619</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>0</allow_purchase>
+      <allow_guest_purchase>0</allow_guest_purchase>
+      <price>19700.000000</price>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>0</allow_purchase>
+      <visibility>none</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>175-D6915</sku>
+    <name>DÖRRUTA FRÄMRE HÖ/VÄ</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2240204</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236222180</ean_number>
+      <updated_at>2021-01-14T10:33:11.843000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>327</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>420.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.10038</sku>
+    <name>GLASS-DOOR-FRONT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>2 Holes. Tinted</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>313335</model>
+          <year>1988-1992</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313338</model>
+          <year>1992-1995</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313342</model>
+          <year>1993-1995</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313340</model>
+          <year>1988-1993</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313343</model>
+          <year>1988-1993</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313345</model>
+          <year>1988-1990</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313348</model>
+          <year>1993-1995</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313350</model>
+          <year>1993-1995</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313374</model>
+          <year>2013-</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313375</model>
+          <year>1992-1995</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313377</model>
+          <year>1992-1995</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313382</model>
+          <year>1992-1995</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313380</model>
+          <year>1992-1995</year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>313384</model>
+          <year>1992-1994</year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1344614</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-14T10:33:12</updated_at>
+      <categories>1773195,1915221</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>3389399M1</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>3389399M2</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Massey Ferguson</manufacturer>
+          <reference>3389399M2</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.10038&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1344612.jpg</filename>
+        </image>
+        <image>
+          <filename>1344613.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>747.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>925.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

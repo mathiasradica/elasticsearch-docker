@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>S.900077</sku>
+    <name>TOPPSTÅNGSBULT KAT 1 76MM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Toppstångsbult kat 1</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1578562</c4_sysid>
+      <replaces>&quot;S.77&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-15T14:18:09.973000</updated_at>
+      <categories>1706598,1902809</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.900077&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1578558.jpg</filename>
+        </image>
+        <image>
+          <filename>1578559.jpg</filename>
+        </image>
+        <image>
+          <filename>1578560.jpg</filename>
+        </image>
+        <image>
+          <filename>1578561.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>32.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>38.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>60108055</sku>
+    <name>DEKAL</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2240567</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322236222715</ean_number>
+      <updated_at>2021-01-15T14:18:10.082000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>042</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>296.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.77</sku>
+    <name>TOPPSTÅNGSBULT KAT 1 146MM</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Pin Ø: 3/4&quot;&lt;br&gt; Working Length: 127mm&lt;br&gt; Length: 164mm.</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1577795</c4_sysid>
+      <replaces>&quot;4800577&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-15T14:18:10.332000</updated_at>
+      <categories>1706598,1902809</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>1934719</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>81717142</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>E381T9</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Ford New Holland</manufacturer>
+          <reference>E381T9</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.77&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1577792.jpg</filename>
+        </image>
+        <image>
+          <filename>1577793.jpg</filename>
+        </image>
+        <image>
+          <filename>1577794.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>19.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>22.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

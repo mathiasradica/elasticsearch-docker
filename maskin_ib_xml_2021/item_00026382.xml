@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>53,1776</sku>
+    <name>MINISVETS MJ-300</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2240499</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236222579</ean_number>
+      <updated_at>2021-01-20T07:48:11.689000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;1776&quot;</competitor_references>
+      <supplier>053</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>250.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>S.149185</sku>
+    <name>FICKLAMPA BIG CRYKET 300LUMEN</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Nebo Big Cryket LED Torch, 300 Lumens&lt;br&gt;• 3-i-1 LED-lampa med 300Lm COB arbetsljus, Spotlight  300Lm  och ett bekvämt 30Lm rött ljus&lt;br&gt;• En unika svängbar designen gör det möjligt att rotera lampans huvud för ett&lt;br&gt;perfekt ljus i alla förhållanden.&lt;br&gt;• Magnetiska stålklämman ger en praktisk handsfree belysning.&lt;br&gt;• Fullt dimbar&lt;br&gt;• Vatten och slagtålig&lt;br&gt;• 90° svängbart huvud&lt;br&gt;• Inställbart minne &lt;br&gt;• Stålklämma för bälte&lt;br&gt;• Kraftfull magnet&lt;br&gt;• Greppvänlig i kraftiggummi&lt;br&gt;* On /Off på ovansida &lt;br&gt;• Drivs av 3 AA-batterier (ingår)&lt;br&gt;• LED-spotlampa med hög effekt på 300 lm&lt;br&gt;• Hög effekt 300Lm COB ljus&lt;br&gt;• Hög effekt 30Lm COB rött ljus</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1870370</c4_sysid>
+      <replaces>&quot;9205330&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>5060063224473</ean_number>
+      <updated_at>2021-01-20T07:48:11.970000</updated_at>
+      <categories>1793070,1912761,1924613</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.149185&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1870365.jpg</filename>
+        </image>
+        <image>
+          <filename>1870366.jpg</filename>
+        </image>
+        <image>
+          <filename>1870367.jpg</filename>
+        </image>
+        <image>
+          <filename>1870368.jpg</filename>
+        </image>
+        <image>
+          <filename>1870369.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>379.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>438.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

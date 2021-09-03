@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>S.163144</sku>
+    <name>RATTSPINNARE DE LUXE</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Förbättra komforten med Deluxe rattspinnare från Sparex! Den är superslank, superbekväm och skär inte in i ratten. Till skillnad från andra rattspinnare har denna produkt ett förseglat lager och 360 graders gummilås. Den är väldigt enkelt att installera och levereras med extra långa fästbultar för att passa rattar upp till 31 mm i tjocklek.   Färg: Svart</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Sparex</manufacturer>
+      <c4_sysid>1842188</c4_sysid>
+      <replaces>&quot;4805341&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-20T13:07:54.117000</updated_at>
+      <categories>1907726</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.163144&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>2242316.jpg</filename>
+        </image>
+        <image>
+          <filename>2242317.jpg</filename>
+        </image>
+        <image>
+          <filename>2242315.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>232.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>266.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

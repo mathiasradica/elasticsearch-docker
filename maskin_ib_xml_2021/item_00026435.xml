@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>4807226</sku>
+    <name>BRANDSLÄCKARE 6KG 43A 233BC</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>6kg&lt;br&gt;Inklusive fordonsstativ</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Presto</manufacturer>
+      <c4_sysid>1784274</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235774253</ean_number>
+      <updated_at>2021-01-21T11:03:11.918000</updated_at>
+      <categories>1784265,1912731</categories>
+      <dangerous_goods>1</dangerous_goods>
+      <competitor_references>&quot;1912&quot;</competitor_references>
+      <supplier>155</supplier>
+      <images>
+        <image>
+          <filename>1897450.jpg</filename>
+        </image>
+        <image>
+          <filename>1897451.jpg</filename>
+        </image>
+        <image>
+          <filename>1897452.jpg</filename>
+        </image>
+        <image>
+          <filename>1897453.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2500.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1764957,1772675,1784261,1784262,1784274,1784275,1784276,1784278,1784279,1784280,1875437,686366</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>4807228</sku>
+    <name>BRANDSLÄCKARE 2KG 13A 89BC</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>2 kilos avstängningsbar tryckladdad pulversläckare med manometer.&lt;br&gt;Inklusive fordonsstativ. EN-3 13A 89B C,</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Presto</manufacturer>
+      <c4_sysid>1764957</c4_sysid>
+      <replaces>&quot;1811&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235774284</ean_number>
+      <updated_at>2021-01-21T11:03:14.309000</updated_at>
+      <categories>1764959,1784265,1875417,1875418,1875424,1875425,1875426,1875430,1912731</categories>
+      <dangerous_goods>1</dangerous_goods>
+      <competitor_references>&quot;1811&quot;</competitor_references>
+      <supplier>155</supplier>
+      <images>
+        <image>
+          <filename>683353.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>495.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1764957,1772675,1784261,1784262,1784274,1784275,1784276,1784278,1784279,1784280,1875437,686366</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>4807227</sku>
+    <name>BRANDSLÄCKARE 4KG 27A 233BC</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Brandsläckare 4kg inkl. fordonsfäste</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Presto</manufacturer>
+      <c4_sysid>1772675</c4_sysid>
+      <replaces>&quot;31777&quot;,&quot;SK015527&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322235774260</ean_number>
+      <updated_at>2021-01-21T11:03:14.543000</updated_at>
+      <categories>1772677,1784265,1809916,1889056,1889058,1912731</categories>
+      <dangerous_goods>1</dangerous_goods>
+      <competitor_references>&quot;210400&quot;</competitor_references>
+      <supplier>155</supplier>
+      <images>
+        <image>
+          <filename>2216901.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>995.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1764957,1772675,1784261,1784262,1784274,1784275,1784276,1784278,1784279,1784280,1875437,686366</link>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

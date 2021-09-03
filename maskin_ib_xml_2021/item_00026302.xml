@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>AY00002125</sku>
+    <name>LAGER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>50</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>0</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <c4_sysid>648671</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-19T09:28:19.232000</updated_at>
+      <categories>1810166</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.27408&quot;</competitor_references>
+      <supplier>209</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>125.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1408537,1456485</link>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0007665380</sku>
+    <name>HYDR.FILTER-PLÅT</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>316695</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316696</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316698</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316700</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316702</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316704</model>
+          <year></year>
+          <serials>528</serials>
+        </fits_to>
+        <fits_to>
+          <model>316723</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>316711</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>316725</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+        <fits_to>
+          <model>316708</model>
+          <year></year>
+          <serials></serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1513698</c4_sysid>
+      <replaces>&quot;AY00002148&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230376896</ean_number>
+      <updated_at>2021-01-19T09:28:19.748000</updated_at>
+      <categories>1513699,1513701,1513727,1513728,1513731,1513732,1513733,1513734,1513735,1513736,1513737,1513739,1513740,1513779,1749568,1749569,1749570,1749571,1749572,1749573,1749574,1749575,1749576,1749577,1749578,1749579,1749580,1749581,1749582,1749583,1749584,1749585,1749586,1749587,1749588,1749589,1749590,1749591,1749592,1749593,1749594,1749595,1749596,1749597,1749598,1749599,1749600,1749601,1749602,1749603,1749604,1749605,1749606,1749607,1749608,1749609,1749610,1749611,1749612,1749613,1749614,1749615,1749616,1749617,1749618,1749619,1749620,1749621,1749622,1749623,1749624,1749625,1749626,1749627,1749628,1749629,1749630,1749631,1749632,1749633,1749634,1749635,1749636,1749637,1749638,1749639,1749640,1749641,1749642,1749643,1749644,1749645,1749646,1749647,1749648,1749649,1749650,1749651,1749652,1749653,1749654,1749655,1749656,1749657,1749658,1749659,1749660,1749661,1749662,1749663,1749664,1749665,1749666,1749667,1749668,1749669,1749670,1749671,1749672,1749673,1749674,1749675,1749676,1749677,1749678,1749679,1749680,1749681,1749682,1749683,1749684,1749685,1749686,1749687,1749688,1749689,1749690,1749691,1749692,1749693,1749694,1749695,1749696,1749697,1749698,1749709,1749710,1749711,1749713,1880051,1905359</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <images>
+        <image>
+          <filename>1541413.png</filename>
+        </image>
+        <image>
+          <filename>1541414.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>227.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>260.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0002155170</sku>
+    <name>LAGER</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>CLAAS CORE RANGE</manufacturer>
+      <fits_to_list>
+        <fits_to>
+          <model>315964</model>
+          <year></year>
+          <serials>L17</serials>
+        </fits_to>
+        <fits_to>
+          <model>315968</model>
+          <year></year>
+          <serials>L17</serials>
+        </fits_to>
+      </fits_to_list>
+      <c4_sysid>1456485</c4_sysid>
+      <replaces>&quot;AY00002125&quot;</replaces>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322230192472</ean_number>
+      <updated_at>2021-01-19T09:28:19.935000</updated_at>
+      <categories>1742749,1810166</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>115.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>139.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

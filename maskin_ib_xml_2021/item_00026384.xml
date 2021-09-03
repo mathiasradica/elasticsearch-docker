@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>4807703</sku>
+    <name>FÄSTE SAFETYWEIGHT MAX 1000KG</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Passar alla påkörningsskydd modeller upp till 1000kg.</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Tractor Bumper</manufacturer>
+      <c4_sysid>1337024</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236035414</ean_number>
+      <updated_at>2021-01-20T08:18:51.872000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;SPECIAL SUPPORT MF8000&quot;</competitor_references>
+      <supplier>215</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2950.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>3580.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

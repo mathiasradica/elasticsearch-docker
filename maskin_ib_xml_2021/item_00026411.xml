@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>411206,190</sku>
+    <name>MOTORVÄRMARE 230V 411206</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>SafeStart 200-serien &lt;br&gt;&lt;br&gt;På de här värmarna är flänsen gängad och används på motorer som har en gängad plugg i kylvattenkanalen. Tätningen mellan flänsen och motorblockets vägg består av koniska gängor, O-ring, packning eller tätningsmassa. I de flesta fall är flänsen formad så att elementet hålls fast medan flänsen dras fast. Den här värmarserien har skiv- eller koppformade flänsar. &lt;br&gt;&lt;br&gt;Spänning [V] 230 &lt;br&gt;Effekt [W] 600-1530 &lt;br&gt;Täthetsklass [IP] 44 &lt;br&gt;Test och godkänningar: &lt;br&gt;EMKO-TUB(61)NO 293/91 &lt;br&gt;EN 60335-1, EMKO-TSB(61) &lt;br&gt;NO293A94</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>DEFA</manufacturer>
+      <c4_sysid>1582210</c4_sysid>
+      <replaces>&quot;A411206&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-20T14:18:13.246000</updated_at>
+      <categories>1773723,1907728</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>190</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>1040.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>AY00001029</sku>
+    <name>TS WATER PUMP</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2115296</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-20T14:18:14.089000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;S.135051&quot;</competitor_references>
+      <supplier>209</supplier>
+      <images>
+        <image>
+          <filename>2115293.png</filename>
+        </image>
+        <image>
+          <filename>2115294.png</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>2500.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation">1444156,2115762</link>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

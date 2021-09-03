@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>S.109246</sku>
+    <name>HYDRAULFILTER HF35307</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>OD: 80mm. Overall Height: 142.5mm.</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Fleetguard</manufacturer>
+      <c4_sysid>1356687</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <updated_at>2021-01-19T14:53:23.876000</updated_at>
+      <categories>1880051,1905359</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <oem_references>
+        <oem_reference>
+          <manufacturer>Donaldson Filters</manufacturer>
+          <reference>P175142</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Fleetguard</manufacturer>
+          <reference>HF35307</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Hifi-Jurafil Filters</manufacturer>
+          <reference>SH61138</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Mann Filters</manufacturer>
+          <reference>W74</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Renault</manufacturer>
+          <reference>7701028138</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>Deutz-Fahr</manufacturer>
+          <reference>4453468</reference>
+        </oem_reference>
+        <oem_reference>
+          <manufacturer>John Deere</manufacturer>
+          <reference>AZ61599</reference>
+        </oem_reference>
+      </oem_references>
+      <competitor_references>&quot;S.109246&quot;</competitor_references>
+      <supplier>144</supplier>
+      <images>
+        <image>
+          <filename>1356685.jpg</filename>
+        </image>
+        <image>
+          <filename>1356686.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>316.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <price>391.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>0013239042</sku>
+    <name>GEARBOX ASSY</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2242356</c4_sysid>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322236223538</ean_number>
+      <updated_at>2021-01-19T14:53:24.185000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>217</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>12000.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>

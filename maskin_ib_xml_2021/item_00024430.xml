@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrationbase>
+  <product>
+    <sku>EL418141</sku>
+    <name>LAGERSATS 14ST</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>0</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer></manufacturer>
+      <c4_sysid>2239759</c4_sysid>
+      <qty_increments>0.000000</qty_increments>
+      <ean_number>7322236221664</ean_number>
+      <updated_at>2021-01-12T10:18:12.044000</updated_at>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;&quot;</competitor_references>
+      <supplier>887</supplier>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <price>2610.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+  <product>
+    <sku>1793100</sku>
+    <name>BLOCKVÄRMARE RE231 Perkins (Cl</name>
+    <status>enabled</status>
+    <attributes store="admin">
+      <description>Element RE 231&lt;br&gt;Effekt:750 watt&lt;br&gt;Typ:Gänga+Konisk plugg&lt;br&gt;Claas Targo C40-C50&lt;br&gt;Perkinsmotorer 1004-4, 1006-6 tom.-89,&lt;br&gt;Perkinsmotorer A3.152, A6.354, A4.203, A4.236, A4.300, A4.318, A6.354, A4.212</description>
+      <status>1</status>
+      <c4_status>5</c4_status>
+      <m3_status>20</m3_status>
+      <is_returnable>1</is_returnable>
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <allow_backorders>1</allow_backorders>
+      <manufacturer>Calix</manufacturer>
+      <c4_sysid>1627873</c4_sysid>
+      <replaces>&quot;1723100&quot;,&quot;43424&quot;,&quot;RE231&quot;,&quot;S.36910&quot;</replaces>
+      <qty_increments>1.000000</qty_increments>
+      <ean_number>7322231111991</ean_number>
+      <updated_at>2021-01-12T10:18:12.435000</updated_at>
+      <categories>1773695,1907728</categories>
+      <dangerous_goods>0</dangerous_goods>
+      <competitor_references>&quot;CX 1793100&quot;</competitor_references>
+      <supplier>071</supplier>
+      <images>
+        <image>
+          <filename>1627872.jpg</filename>
+        </image>
+        <image>
+          <filename>607177.jpg</filename>
+        </image>
+      </images>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="01">
+      <allow_purchase>1</allow_purchase>
+      <allow_guest_purchase>1</allow_guest_purchase>
+      <price>799.000000</price>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="02">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <attributes store="66">
+      <allow_purchase>1</allow_purchase>
+      <visibility>both</visibility>
+    </attributes>
+    <links>
+      <link type="relation"/>
+    </links>
+    <type>simple</type>
+  </product>
+</integrationbase>
